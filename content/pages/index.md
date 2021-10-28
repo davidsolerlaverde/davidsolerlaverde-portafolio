@@ -21,7 +21,7 @@ sections:
         url: 'https://twitter.com/dasolerlaverde'
         style: icon
         icon: twitter
-        new_window: false
+        new_window: true
         no_follow: false
       - label: Instagram
         url: 'https://www.instagram.com/davidsolerlaverde/'
