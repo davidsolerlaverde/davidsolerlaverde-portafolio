@@ -32,7 +32,7 @@ sections:
       - input_type: select
         name: Asunto
         label: Asunto
-        default_value: lorem-ipsum
+        default_value: Elige una opción
         options: []
         is_required: false
     submit_label: Enviar mensaje
