@@ -20,7 +20,7 @@ sections:
       - label: Twitter
         url: 'https://twitter.com/dasolerlaverde'
         style: icon
-        icon: dribbble
+        icon: twitter
         new_window: false
         no_follow: false
   - section_id: latest-projects
