@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, soy David Soler Laverde.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      # Novio de Isabel Mesa White
     actions:
       - label: Hablemos!
         url: /contact
