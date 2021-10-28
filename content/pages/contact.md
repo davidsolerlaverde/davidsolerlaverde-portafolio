@@ -39,7 +39,7 @@ sections:
       - input_type: text
         name: name
         options: []
-        is_required: true
+        is_required: false
       - input_type: email
         name: Correo Electrónico
         label: Email
