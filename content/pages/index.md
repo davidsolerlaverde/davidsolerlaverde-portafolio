@@ -13,7 +13,7 @@ sections:
         style: button
       - label: lorem-ipsum
         url: 'https://www.linkedin.com/in/david-soler-laverde/'
-        style: icon
+        style: button
         icon: linkedin
         new_window: false
         no_follow: false
