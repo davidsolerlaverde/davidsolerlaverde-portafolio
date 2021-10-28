@@ -8,7 +8,7 @@ sections:
     content: |
       #### Novio de Isabel Mesa White
     actions:
-      - label: Hablemos!
+      - label: ¡Hablemos!
         url: /contact
         style: button
       - label: LinkedIn
