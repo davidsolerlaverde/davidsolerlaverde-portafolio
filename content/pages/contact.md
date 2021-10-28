@@ -2,8 +2,7 @@
 title: ¡Hablemos!
 hide_title: false
 sections:
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
