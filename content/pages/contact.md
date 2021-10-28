@@ -30,7 +30,7 @@ sections:
         options: []
         is_required: true
       - input_type: select
-        name: lorem-ipsum
+        name: Asunto
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
