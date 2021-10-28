@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, soy David Soler Laverde.'
+    title: 'Hola, soy David Soler Laverde.'
     content: |
       #### Novio de Isabel Mesa White
     actions:
