@@ -38,7 +38,6 @@ sections:
     form_fields:
       - input_type: text
         name: name
-        label: Nombre
         default_value: Tu nombre
         options: []
         is_required: true
