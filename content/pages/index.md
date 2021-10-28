@@ -23,7 +23,7 @@ sections:
         icon: twitter
         new_window: false
         no_follow: false
-      - label: Instagrama
+      - label: Instagram
         url: '#'
         style: link
         icon: dribbble
