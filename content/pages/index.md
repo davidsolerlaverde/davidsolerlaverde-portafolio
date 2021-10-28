@@ -31,7 +31,7 @@ sections:
         no_follow: false
       - label: Youtube
         url: 'https://www.youtube.com/channel/UCWDRSgJybI_g2gzPZRtUyVQ'
-        style: link
+        style: icon
         icon: youtube
         new_window: true
         no_follow: false
