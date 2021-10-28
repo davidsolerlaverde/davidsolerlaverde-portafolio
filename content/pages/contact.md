@@ -44,7 +44,6 @@ sections:
         is_required: true
       - input_type: select
         name: Asunto
-        default_value: Tu correo electrónic
         options:
           - Oferta laboral
         is_required: true
