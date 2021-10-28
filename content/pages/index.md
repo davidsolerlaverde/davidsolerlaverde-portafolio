@@ -13,7 +13,7 @@ sections:
         style: button
       - label: LinkedIn
         url: 'https://www.linkedin.com/in/david-soler-laverde/'
-        style: link
+        style: icon
         icon: linkedin
         new_window: true
         no_follow: false
