@@ -36,7 +36,7 @@ sections:
         new_window: false
         no_follow: false
       - label: GitHub
-        url: '#'
+        url: 'https://github.com/davidsolerlaverde'
         style: link
         icon: dribbble
         new_window: false
