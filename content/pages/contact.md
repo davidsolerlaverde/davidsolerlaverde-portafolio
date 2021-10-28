@@ -3,10 +3,11 @@ title: ¡Hablemos!
 hide_title: false
 sections:
   - section_id: lorem-ipsum
-    content: >+
+    content: >
       Soy consciente cuántos dolores de cabeza generan los problemas dentro de
       las empresas incrementando los costos, haciendo más ineficientes los
-      procesos, sobrecargando el recurso humano y lo peor, perdiendo clientes.
+      procesos, sobrecargando los equipos de trabajo y lo peor, perdiendo
+      clientes diariamente.
 
 
       Por eso te invito a que hablemos cuanto antes porque lo peor que se puede
@@ -25,9 +26,6 @@ sections:
 
 
       [Instagram](https://www.instagram.com/davidsolerlaverde/)
-
-
-
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields:
