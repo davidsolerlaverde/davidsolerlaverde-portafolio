@@ -30,7 +30,7 @@ sections:
         default_value: Please select
         options:
           - Oferta laboral
-          - Sponsorship
+          - Desarrollo de proyecto
           - Other
       - input_type: textarea
         name: message
