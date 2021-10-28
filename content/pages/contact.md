@@ -28,7 +28,7 @@ sections:
         label: Email
         default_value: Tu correo electrónico
         options: []
-        is_required: false
+        is_required: true
     submit_label: lorem-ipsum
     type: section_form
 seo:
