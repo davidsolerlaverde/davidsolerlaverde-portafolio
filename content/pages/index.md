@@ -19,7 +19,7 @@ sections:
         no_follow: false
       - label: Twitter
         url: 'https://twitter.com/dasolerlaverde'
-        style: link
+        style: button
         icon: dribbble
         new_window: false
         no_follow: false
