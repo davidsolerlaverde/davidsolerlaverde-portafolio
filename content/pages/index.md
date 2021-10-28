@@ -15,7 +15,7 @@ sections:
         url: 'https://www.linkedin.com/in/david-soler-laverde/'
         style: icon
         icon: linkedin
-        new_window: false
+        new_window: true
         no_follow: false
   - section_id: latest-projects
     type: section_portfolio
