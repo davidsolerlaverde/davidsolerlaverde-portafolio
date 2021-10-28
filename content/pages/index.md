@@ -8,7 +8,7 @@ sections:
     content: |
       #### Novio de Isabel Mesa White
     actions:
-      - label: "Hablemos! \U0001F4EE"
+      - label: Hablemos!
         url: /contact
         style: button
       - label: LinkedIn
