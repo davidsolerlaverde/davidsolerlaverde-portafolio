@@ -27,7 +27,7 @@ sections:
         url: 'https://www.instagram.com/davidsolerlaverde/'
         style: icon
         icon: instagram
-        new_window: false
+        new_window: true
         no_follow: false
       - label: Youtube
         url: 'https://www.youtube.com/channel/UCWDRSgJybI_g2gzPZRtUyVQ'
