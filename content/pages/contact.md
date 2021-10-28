@@ -25,7 +25,7 @@ sections:
         default_value: Tu correo electrónico
         is_required: true
       - input_type: select
-        name: subject
+        name: Asunto
         label: Subject
         default_value: Please select
         options:
