@@ -38,7 +38,6 @@ sections:
     form_fields:
       - input_type: text
         name: name
-        default_value: Tu nombre
         options: []
         is_required: true
       - input_type: email
