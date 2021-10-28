@@ -33,7 +33,8 @@ sections:
         name: Asunto
         label: Asunto
         default_value: Elige una opción
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
     submit_label: Enviar mensaje
     type: section_form
