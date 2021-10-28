@@ -18,6 +18,11 @@
                 "style": "link"
             },
             {
+                "label": "Blog",
+                "url": "/blog/",
+                "style": "link"
+            },
+            {
                 "label": "¿Quién soy?",
                 "url": "/about/",
                 "style": "link"
@@ -25,11 +30,6 @@
             {
                 "label": "¡Charlemos!",
                 "url": "/contact/",
-                "style": "link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog/",
                 "style": "link"
             }
         ],
