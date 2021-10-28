@@ -29,7 +29,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - 'Estoy interesado en '
+          - null
           - Sponsorship
           - Other
       - input_type: textarea
