@@ -36,10 +36,6 @@ sections:
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields:
-      - input_type: text
-        name: name
-        options: []
-        is_required: false
       - input_type: email
         name: Correo Electrónico
         label: Email
