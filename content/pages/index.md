@@ -17,7 +17,7 @@ sections:
         icon: linkedin
         new_window: true
         no_follow: false
-      - label: lorem-ipsum
+      - label: Twitter
         url: '#'
         style: link
         icon: dribbble
