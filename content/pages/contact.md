@@ -3,7 +3,7 @@ title: ¡Hablemos!
 hide_title: false
 sections:
   - section_id: lorem-ipsum
-    content: >
+    content: >+
       Soy consciente cuántos dolores de cabeza generan los problemas dentro de
       las empresas incrementando los costos, haciendo más ineficientes los
       procesos, sobrecargando los equipos de trabajo y lo peor, perdiendo
@@ -11,8 +11,7 @@ sections:
 
 
       Por eso te invito a que hablemos cuanto antes porque lo peor que se puede
-      hacer con un problema es aplazarlo. Te responderé en el menor tiempo
-      posible.
+      hacer con un problema es aplazarlo. 
 
 
       Me puedes enviar un correo a <da.soler.laverde@gmail.com> o escríbeme un
@@ -26,6 +25,14 @@ sections:
 
 
       [Instagram](https://www.instagram.com/davidsolerlaverde/)
+
+
+      Te responderé en el menor tiempo posible.
+
+
+
+
+
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields:
