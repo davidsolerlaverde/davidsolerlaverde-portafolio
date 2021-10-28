@@ -72,7 +72,7 @@
                 "url": "https://github.com/davidsolerlaverde",
                 "style": "link",
                 "icon": "dribbble",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false
             }
         ]
