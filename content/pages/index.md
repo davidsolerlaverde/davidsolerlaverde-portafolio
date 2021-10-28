@@ -11,7 +11,7 @@ sections:
       - label: Hablemos!
         url: /contact
         style: button
-      - label: lorem-ipsum
+      - label: LinkedIn
         url: 'https://www.linkedin.com/in/david-soler-laverde/'
         style: icon
         icon: linkedin
