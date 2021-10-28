@@ -37,7 +37,7 @@ sections:
         label: Mensaje
         default_value: Escribe tu mensaje aquí...
         is_required: true
-    submit_label: Send Message
+    submit_label: Enviar mensaje
 seo:
   title: Contact
   description: This is the contact page
