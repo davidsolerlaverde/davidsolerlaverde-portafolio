@@ -25,7 +25,7 @@ sections:
         no_follow: false
       - label: Instagram
         url: 'https://www.instagram.com/davidsolerlaverde/'
-        style: link
+        style: icon
         icon: instagram
         new_window: true
         no_follow: false
