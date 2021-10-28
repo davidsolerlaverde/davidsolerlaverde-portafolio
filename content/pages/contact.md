@@ -34,7 +34,7 @@ sections:
         label: Asunto
         default_value: Elige una opción
         options:
-          - lorem-ipsum
+          - Oferta laboral
         is_required: true
     submit_label: Enviar mensaje
     type: section_form
