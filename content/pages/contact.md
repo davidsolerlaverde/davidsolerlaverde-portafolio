@@ -29,7 +29,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - null
+          - Oferta laboral
           - Sponsorship
           - Other
       - input_type: textarea
