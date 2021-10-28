@@ -16,7 +16,7 @@ sections:
         name: name
         label: Nombre
         default_value: Tu nombre
-        is_required: false
+        is_required: true
         options:
           - lorem-ipsum
       - input_type: email
