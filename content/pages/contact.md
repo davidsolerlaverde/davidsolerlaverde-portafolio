@@ -42,7 +42,7 @@ sections:
         default_value: Tu correo electrónico
         options: []
         is_required: true
-      - input_type: select
+      - input_type: text
         name: Asunto
         options:
           - Oferta laboral
