@@ -3,17 +3,29 @@ title: ¡Hablemos!
 hide_title: false
 sections:
   - section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      Soy consciente cuántos dolores de cabeza generan los problemas dentro de
+      las empresas incrementando los costos, haciendo más ineficientes los
+      procesos, sobrecargando el recurso humano y lo peor, perdiendo clientes. 
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Por eso te invito a que hablemos cuanto antes, lo peor que se puede hacer
+      con un problema es aplazarlo. ¡Lo responderé en el menor tiempo posible!
 
 
-      - Lorem ipsum
+      Me puedes enviar un correo a
+      [da.soier.laverde@gmail.com](mailto:da.soler.laverde@gmail.com) o
+      escríbeme un mensaje directo en:
 
-      - dolor sit amet
+
+      *   [LinkedIn](https://www.linkedin.com/in/david-soler-laverde/)
+
+
+      *   Twitter
+
+
+      *   Instagram
+
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields:
