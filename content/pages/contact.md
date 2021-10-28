@@ -6,25 +6,27 @@ sections:
     content: >+
       Soy consciente cuántos dolores de cabeza generan los problemas dentro de
       las empresas incrementando los costos, haciendo más ineficientes los
-      procesos, sobrecargando el recurso humano y lo peor, perdiendo clientes. 
+      procesos, sobrecargando el recurso humano y lo peor, perdiendo clientes.
 
 
-      Por eso te invito a que hablemos cuanto antes, lo peor que se puede hacer
-      con un problema es aplazarlo. ¡Lo responderé en el menor tiempo posible!
+      Por eso te invito a que hablemos cuanto antes porque lo peor que se puede
+      hacer con un problema es aplazarlo. Te responderé en el menor tiempo
+      posible.
 
 
-      Me puedes enviar un correo a
-      [da.soier.laverde@gmail.com](mailto:da.soler.laverde@gmail.com) o
-      escríbeme un mensaje directo en:
+      Me puedes enviar un correo a <da.soler.laverde@gmail.com> o escríbeme un
+      mensaje directo en:
 
 
-      *   [LinkedIn](https://www.linkedin.com/in/david-soler-laverde/)
+      [LinkedIn](https://www.linkedin.com/in/david-soler-laverde/)
 
 
-      *   Twitter
+      [Twitter](https://twitter.com/dasolerlaverde)
 
 
-      *   Instagram
+      [Instagram](https://www.instagram.com/davidsolerlaverde/)
+
+
 
     form_id: lorem-ipsum
     form_action: lorem-ipsum
