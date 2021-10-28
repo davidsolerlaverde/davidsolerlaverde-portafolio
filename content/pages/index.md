@@ -35,7 +35,7 @@ sections:
         icon: youtube
         new_window: false
         no_follow: false
-      - label: lorem-ipsum
+      - label: GitHub
         url: '#'
         style: link
         icon: dribbble
