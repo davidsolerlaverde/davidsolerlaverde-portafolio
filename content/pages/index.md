@@ -26,7 +26,7 @@ sections:
       - label: Instagram
         url: 'https://www.instagram.com/davidsolerlaverde/'
         style: icon
-        icon: dribbble
+        icon: instagram
         new_window: false
         no_follow: false
   - section_id: latest-projects
