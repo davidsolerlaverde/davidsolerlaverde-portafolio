@@ -31,7 +31,7 @@ sections:
         options:
           - Oferta laboral
           - Desarrollo de proyecto
-          - Other
+          - Ideas de negocio
       - input_type: textarea
         name: message
         label: Message
