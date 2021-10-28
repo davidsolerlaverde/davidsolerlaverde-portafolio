@@ -44,7 +44,6 @@ sections:
         is_required: true
       - input_type: select
         name: Asunto
-        label: Asunto
         default_value: Elige una opción
         options:
           - Oferta laboral
