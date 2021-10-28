@@ -31,7 +31,7 @@ sections:
         is_required: true
       - input_type: select
         name: Asunto
-        label: lorem-ipsum
+        label: Asunto
         default_value: lorem-ipsum
         options: []
         is_required: false
