@@ -39,7 +39,7 @@ sections:
         url: 'https://github.com/davidsolerlaverde'
         style: icon
         icon: github
-        new_window: false
+        new_window: true
         no_follow: false
   - section_id: latest-projects
     type: section_portfolio
