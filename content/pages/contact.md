@@ -20,7 +20,7 @@ sections:
       - input_type: text
         name: name
         label: Nombre
-        default_value: lorem-ipsum
+        default_value: Tu nombre
         options: []
         is_required: false
       - input_type: text
