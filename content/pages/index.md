@@ -33,7 +33,7 @@ sections:
         url: 'https://www.youtube.com/channel/UCWDRSgJybI_g2gzPZRtUyVQ'
         style: icon
         icon: youtube
-        new_window: false
+        new_window: true
         no_follow: false
       - label: GitHub
         url: 'https://github.com/davidsolerlaverde'
