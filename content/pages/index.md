@@ -38,7 +38,7 @@ sections:
       - label: GitHub
         url: 'https://github.com/davidsolerlaverde'
         style: icon
-        icon: dribbble
+        icon: github
         new_window: false
         no_follow: false
   - section_id: latest-projects
