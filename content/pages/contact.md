@@ -26,7 +26,7 @@ sections:
       - input_type: email
         name: Correo Electrónico
         label: Email
-        default_value: lorem-ipsum
+        default_value: Tu correo electrónico
         options: []
         is_required: false
     submit_label: lorem-ipsum
