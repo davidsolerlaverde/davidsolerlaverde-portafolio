@@ -35,7 +35,7 @@ sections:
         default_value: Elige una opción
         options:
           - lorem-ipsum
-        is_required: false
+        is_required: true
     submit_label: Enviar mensaje
     type: section_form
 seo:
