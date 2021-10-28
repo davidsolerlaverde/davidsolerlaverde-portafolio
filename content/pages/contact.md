@@ -36,6 +36,7 @@ sections:
         name: message
         label: Mensaje
         default_value: Escribe tu mensaje aquí...
+        is_required: true
       - input_type: checkbox
         name: consent
         label: >-
