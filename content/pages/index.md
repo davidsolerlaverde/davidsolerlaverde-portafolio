@@ -32,7 +32,7 @@ sections:
       - label: Youtube
         url: 'https://www.youtube.com/channel/UCWDRSgJybI_g2gzPZRtUyVQ'
         style: icon
-        icon: dribbble
+        icon: youtube
         new_window: false
         no_follow: false
   - section_id: latest-projects
