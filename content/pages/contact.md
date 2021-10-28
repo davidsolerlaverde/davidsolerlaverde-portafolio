@@ -37,7 +37,7 @@ sections:
         default_value: Escribe tu mensaje aquí...
         is_required: true
     submit_label: Enviar mensaje
-    title: Hablemos!
+    title: ¡Hablemos!
 seo:
   title: Contact
   description: This is the contact page
