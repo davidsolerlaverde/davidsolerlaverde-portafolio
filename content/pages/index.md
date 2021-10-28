@@ -12,7 +12,7 @@ sections:
         url: /contact
         style: button
       - label: lorem-ipsum
-        url: '#'
+        url: 'https://www.linkedin.com/in/david-soler-laverde/'
         style: link
         icon: linkedin
         new_window: false
