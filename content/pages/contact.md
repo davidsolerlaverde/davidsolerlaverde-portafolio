@@ -1,54 +1,7 @@
 ---
 title: ¡Hablemos!
 hide_title: false
-sections:
-  - section_id: lorem-ipsum
-    content: >+
-      Soy consciente cuántos dolores de cabeza generan los problemas dentro de
-      las empresas incrementando los costos, haciendo más ineficientes los
-      procesos, sobrecargando los equipos de trabajo y lo peor, perdiendo
-      clientes diariamente.
-
-
-      Por eso te invito a que hablemos cuanto antes porque lo peor que se puede
-      hacer con un problema es aplazarlo. 
-
-
-      Me puedes enviar un correo a <da.soler.laverde@gmail.com> o escríbeme un
-      mensaje directo en:
-
-
-      [LinkedIn](https://www.linkedin.com/in/david-soler-laverde/)
-
-
-      [Twitter](https://twitter.com/dasolerlaverde)
-
-
-      [Instagram](https://www.instagram.com/davidsolerlaverde/)
-
-
-      Te responderé en el menor tiempo posible.
-
-
-
-
-
-    form_id: lorem-ipsum
-    form_action: lorem-ipsum
-    form_fields:
-      - input_type: text
-        name: Correo Electrónico
-        label: Email
-        default_value: Tu correo electrónico
-        options: []
-        is_required: true
-      - input_type: text
-        name: Asunto
-        options:
-          - Oferta laboral
-        is_required: true
-    submit_label: Enviar mensaje
-    type: section_form
+sections: []
 seo:
   title: Contact
   description: This is the contact page
