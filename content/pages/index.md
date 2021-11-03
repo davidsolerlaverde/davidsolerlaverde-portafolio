@@ -93,7 +93,7 @@ sections:
 
           Una gran compañía le cumple a su cliente, una excelente compañía los
           sorprende.
-        title: 'Customer Experience = '
+        title: Customer Experience = Excelencia
       - title: Adrenalina x Eficiencia
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
