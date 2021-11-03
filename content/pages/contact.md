@@ -17,6 +17,12 @@ sections:
 
       ##### Instagram:
       [@davidsolerlaverde](https://www.instagram.com/davidsolerlaverde/)
+
+
+      ##### Videollamada: 
+
+
+      #####
     type: section_content
     title: >-
       Por email, videollamada o redes sociales, porque la eficiencia es NUESTRA
