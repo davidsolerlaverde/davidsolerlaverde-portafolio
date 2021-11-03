@@ -2,7 +2,7 @@
 title: ¿Cómo puedo ayudarte?
 hide_title: false
 sections:
-  - title: lorem-ipsum
+  - title: Ninguna startup
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
