@@ -53,12 +53,16 @@ sections:
           ¿cómo lo hacemos?
 
 
-          *   Desde los datos, para observar preferencias, comportamientos y
-          tendencias.
+          *   *Desde los datos*, para encontrar preferencias, comportamientos y
+          problemas.
 
 
-          *   Desde sus perspectivas, para saber cuales son sus expectativas, el
-          por qué consume este producto ó servicio y entender sus emociones.
+          *   *Desde sus perspectivas*, para saber cuales son sus expectativas,
+          el por qué consume este producto ó servicio y entender sus emociones.
+
+
+          *   *Desde las tendencias*, para encontrar cambios en el consumo,
+          nuevos *drivers* y mercados potenciales
 
 
           Una operación que funcione en pro de entender el cliente, es una
