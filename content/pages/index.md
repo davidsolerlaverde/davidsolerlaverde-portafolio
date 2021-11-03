@@ -108,7 +108,8 @@ sections:
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
     subtitle: >-
       No me enfoco en la competencia, me enfoco en el consumidor. Él ha llegado
-      y pagado a una empresa por 
+      y pagado a una empresa porque tiene una necesidad, mi objetivo es
+      solucionar
   - type: section_portfolio
     layout_style: mosaic
     title: Casos de éxito
