@@ -1,5 +1,5 @@
 ---
-title: 'Casos de '
+title: Casos de Éxito
 subtitle: This is an optional subtitle for the portfolio page.
 layout_style: mosaic
 seo:
