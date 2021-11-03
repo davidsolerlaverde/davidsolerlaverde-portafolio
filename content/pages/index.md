@@ -40,14 +40,6 @@ sections:
         icon: github
         new_window: true
         no_follow: false
-  - section_id: latest-projects
-    type: section_portfolio
-    layout_style: mosaic
-    title: Casos de éxito
-    subtitle: An optional subtitle of the section
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
   - section_id: services
     type: section_grid
     title: What We Do
@@ -74,6 +66,14 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+  - section_id: latest-projects
+    type: section_portfolio
+    layout_style: mosaic
+    title: Casos de éxito
+    subtitle: An optional subtitle of the section
+    projects_number: 6
+    view_all_label: View All
+    view_all_url: portfolio
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
