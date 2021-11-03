@@ -64,9 +64,8 @@ sections:
           Una operación que funcione en pro de entender el cliente, es una
           operación que está en constante mejora continua
       - content: >
-          La información está para representar lo que a ellos les duele, la
-          innovación está para crear las soluciones a esos dolores. Por eso es
-          que:
+          La información representa lo que les duele a los consumidores, la
+          innovación crea las soluciones a esos dolores. Por eso es que:
 
 
           *   *Los resultados deben ser el Polo Norte*: Evaluo y cambio los
