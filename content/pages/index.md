@@ -63,8 +63,7 @@ sections:
 
           Una operación que funcione en pro de entender el cliente, es una
           operación que está en constante mejora continua
-      - title: '!'
-        content: >-
+      - content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus.
