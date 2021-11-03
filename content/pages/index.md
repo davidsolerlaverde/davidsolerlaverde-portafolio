@@ -65,7 +65,9 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-    subtitle: 'No me enfoco en la competencia, me enfoco en el consumidor. Él '
+    subtitle: >-
+      No me enfoco en la competencia, me enfoco en el consumidor. Él nos paga
+      por solucionarle su vida, 
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
