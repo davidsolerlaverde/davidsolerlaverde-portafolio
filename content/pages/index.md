@@ -63,7 +63,6 @@ sections:
 
           Una operación que funcione en pro de entender el cliente, es una
           operación que está en constante mejora continua
-        image: /images/Youtube.png
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
