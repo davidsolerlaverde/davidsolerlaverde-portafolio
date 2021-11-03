@@ -63,14 +63,10 @@ sections:
 
           Una operación que funcione en pro de entender el cliente, es una
           operación que está en constante mejora continua
-      - content: >+
-          Una gran compañía le cumple a su cliente, una excelente compañía los
-          sorprende. 
-
-
+      - content: >
           La información está para representar lo que a ellos les duele, la
           innovación está para crear las soluciones a esos dolores. Por eso es
-          que: 
+          que:
 
 
           *   *Los resultados deben ser el Polo Norte*: Evaluo y cambio los
@@ -89,11 +85,14 @@ sections:
           <!---->
 
 
-          *   *Los consumidores evolucionan, las empresas deben hacerlo más
-          rápido: *Genero nuevos productos y/o servicios que aumentan la lealtad
-          del cliente llevando su experiencia al siguiente nivel, al igual que
-          el *Lifetime Value* (LTV) de la compañia. 
+          *   \*Los consumidores evolucionan, las empresas deben hacerlo más
+          rápido: \*Genero nuevos productos y/o servicios que aumentan la
+          lealtad del cliente llevando su experiencia al siguiente nivel, al
+          igual que el *Lifetime Value* (LTV) de la compañia.
 
+
+          Una gran compañía le cumple a su cliente, una excelente compañía los
+          sorprende.
         title: Primero la Experiencia del Cliente
       - title: Service Title
         content: >-
