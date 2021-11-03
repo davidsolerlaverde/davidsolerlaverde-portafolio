@@ -73,12 +73,20 @@ sections:
           sistemas operacionales hacía el logro de resultados (KPIs, OKRs,
           Procesos, Evaluaciones de desempeño, etc)
 
+
+          <!---->
+
+
           *   *Siempre se debe hacer mejor*: Diseño soluciones basadas en
           tecnología para mejorar la atención al cliente, hacer procesos más
           eficientes y mejorar la efectividad de los equipos operacionales
 
-          *   Los consumidores evolucionan, las empresas deben hacerlo más
-          rápido: Genero nuevos productos y/o servicios que aumentan la lealtad
+
+          <!---->
+
+
+          *   *Los consumidores evolucionan, las empresas deben hacerlo más
+          rápido*: Genero nuevos productos y/o servicios que aumentan la lealtad
           del cliente llevando su experiencia al siguiente nivel, al igual que
           el *Lifetime Value* (LTV) de la compañia.
 
