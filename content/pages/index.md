@@ -63,10 +63,37 @@ sections:
 
           Una operación que funcione en pro de entender el cliente, es una
           operación que está en constante mejora continua
-      - content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+      - content: >+
+          Una gran compañía le cumple a su cliente, una excelente compañía los
+          sorprende. 
+
+
+          La información está para representar lo que a ellos les duele, la
+          innovación está para crear las soluciones a esos dolores. Por eso es
+          que: 
+
+
+          *   *Los resultados deben ser el Polo Norte*: Evaluo y cambio los
+          sistemas operacionales hacía el logro de resultados (KPIs, OKRs,
+          Procesos, Evaluaciones de desempeño, etc)
+
+
+          <!---->
+
+
+          *   *Siempre se debe hacer mejor*: Diseño soluciones basadas en
+          tecnología para mejorar la atención al cliente, hacer procesos más
+          eficientes y mejorar la efectividad de los equipos operacionales
+
+
+          <!---->
+
+
+          *   *Los consumidores evolucionan, las empresas deben hacerlo más
+          rápido: *Genero nuevos productos y/o servicios que aumentan la lealtad
+          del cliente llevando su experiencia al siguiente nivel, al igual que
+          el *Lifetime Value* (LTV) de la compañia. 
+
         title: ¡Sorpréndelos!
       - title: Service Title
         content: >-
