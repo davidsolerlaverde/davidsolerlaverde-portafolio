@@ -43,7 +43,7 @@ sections:
   - section_id: services
     type: section_grid
     title: ¿Cómo lo hago?
-    col_number: two
+    col_number: three
     is_numbered: true
     grid_items:
       - title: Service Title
