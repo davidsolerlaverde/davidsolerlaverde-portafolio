@@ -109,7 +109,7 @@ sections:
     subtitle: >-
       No me enfoco en la competencia, me enfoco en el consumidor. Él ha llegado
       y pagado a una empresa porque tiene una necesidad, mi objetivo es
-      solucionar
+      solucionar dicha necesidad
   - type: section_portfolio
     layout_style: mosaic
     title: Casos de éxito
