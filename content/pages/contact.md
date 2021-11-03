@@ -1,5 +1,5 @@
 ---
-title: ¡Hablemos!
+title: ¡Charlemos!
 hide_title: false
 sections: []
 seo:
