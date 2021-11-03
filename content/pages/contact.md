@@ -4,20 +4,19 @@ hide_title: false
 sections:
   - section_id: Subtitulo
     image_alt: lorem-ipsum
-    content: |
-      asdfasdfasdf
+    content: >
+      ##### Email: <david@solerlaverde.com>
 
-      asdf
 
-      asd
+      ##### LinkedIn: [David Soler
+      Laverde](https://www.linkedin.com/in/david-soler-laverde/)
 
-      fads
 
-      f
+      ##### Twitter: [@dasolerlaverde](https://twitter.com/dasolerlaverde)
 
-      asd
 
-      fa
+      ##### Instagram:
+      [@davidsolerlaverde](https://www.instagram.com/davidsolerlaverde/)
     type: section_content
     title: >-
       Por email, videollamada o redes sociales, porque la eficiencia es NUESTRA
