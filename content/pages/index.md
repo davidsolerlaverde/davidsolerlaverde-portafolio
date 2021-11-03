@@ -67,7 +67,7 @@ sections:
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
     subtitle: >-
       No me enfoco en la competencia, me enfoco en el consumidor. Él nos paga
-      por solucionarle su vida, y esa debe ser nuestra única misión
+      por solucionarle su vida y esa es la razón de ser de cualquier empresa
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
