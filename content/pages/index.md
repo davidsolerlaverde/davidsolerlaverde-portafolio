@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: ¡Hola! Soy David Soler Laverde.
-    content: "###### Tengo **8+** años de experiencia trabajando en Operaciones y Consultoría como COO, Consultor e Intraemprendor en Latinoamérica \U0001F1E8\U0001F1F4\U0001F1FA\U0001F1FE\U0001F1E6\U0001F1F7\U0001F1F5\U0001F1EA\U0001F1EA\U0001F1E8\U0001F1F8\U0001F1FB\U0001F1F2\U0001F1FD.\n\n###### He impactado **15+** millones de clientes trabajando en Aviación, Hotelería, Alimentos & Bebidas, Transporte y Seguridad & Defensa.\n\n###### \U0001F3AF ¿Mi objetivo? Cazar y solucionar todos esos problemas estratégicos que generan clientes insatisfechos en industrias Tech.\n\n###### ¿Cómo lo hago? Te invito a que veas mi experiencia y cómo puedo convertir **TUS** clientes en fans.\n"
+    content: "###### Tengo **8+** años de experiencia trabajando en Operaciones y Consultoría como COO, Consultor e Intraemprendor en Latinoamérica \U0001F1E8\U0001F1F4\U0001F1FA\U0001F1FE\U0001F1E6\U0001F1F7\U0001F1F5\U0001F1EA\U0001F1EA\U0001F1E8\U0001F1F8\U0001F1FB\U0001F1F2\U0001F1FD.\n\n###### He impactado **15+** millones de clientes trabajando en Aviación, Hotelería, Alimentos & Bebidas, Transporte y Seguridad & Defensa.\n\n###### \U0001F3AF ¿Mi objetivo? Cazar y solucionar todos esos problemas estratégicos que generan clientes insatisfechos en industrias Tech.\n\n###### ¿Cómo lo hago? Te invito a que veas mi portafolio y cómo puedo convertir **TUS** clientes en fans.\n"
     actions:
       - label: ¡Hablemos!
         url: /contact
