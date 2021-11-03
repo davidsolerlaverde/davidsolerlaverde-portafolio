@@ -78,8 +78,8 @@ sections:
 
 
           *   *Siempre se debe hacer mejor*: Diseño soluciones basadas en
-          tecnología para mejorar la atención al cliente, hacer procesos más
-          eficientes y mejorar la efectividad de los equipos operacionales
+          tecnología para mejorar la atención al cliente, agregar valor sin
+          incrementar los costos y escalar rápidamente hacía otros mercados
 
 
           <!---->
