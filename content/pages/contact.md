@@ -7,17 +7,20 @@ sections:
       Por email, videollamada o redes sociales, porque la eficiencia es NUESTRA
       pasión.
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      asdfasdfasdf
 
+      asdf
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      asd
 
+      fads
 
-      - Lorem ipsum
+      f
 
-      - dolor sit amet
+      asd
+
+      fa
     type: section_content
 seo:
   title: Contact
