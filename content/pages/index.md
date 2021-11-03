@@ -108,7 +108,7 @@ sections:
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
     subtitle: >-
       No me enfoco en la competencia, me enfoco en el consumidor cumpliendo una
-      premisa fundamental: 
+      premisa fundamental: solucionarle
   - type: section_portfolio
     layout_style: mosaic
     title: Casos de éxito
