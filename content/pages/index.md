@@ -94,7 +94,7 @@ sections:
           Una gran compañía le cumple a su cliente, una excelente compañía los
           sorprende.
         title: Primero la Experiencia del Cliente
-      - title: Adrenalina = Eficiencia
+      - title: Adrenalina x Eficiencia
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
