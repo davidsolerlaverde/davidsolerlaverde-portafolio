@@ -76,9 +76,9 @@ sections:
           <!---->
 
 
-          *   *Siempre se debe hacer mejor*: Diseño soluciones basadas en
-          tecnología para mejorar la atención al cliente, agregar valor sin
-          incrementar los costos y escalar rápidamente hacía otros mercados
+          *   *Siempre se debe hacer mejor*: Diseño soluciones para mejorar la
+          atención al cliente, agregar valor sin incrementar los costos y
+          escalar rápidamente hacía otros mercados.
 
 
           <!---->
