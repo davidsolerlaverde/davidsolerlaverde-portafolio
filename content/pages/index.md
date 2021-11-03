@@ -65,6 +65,7 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+    subtitle: 'No soy un '
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
