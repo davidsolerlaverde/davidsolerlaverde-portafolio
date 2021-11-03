@@ -46,7 +46,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Datos + Perspectivas
+      - title: Datos + Perspectivas + Tendencias
         content: >
           Cada cliente es un universo único que se tiene que descifrar para
           saber cuáles son sus problemas y después crear soluciones para ellos.
