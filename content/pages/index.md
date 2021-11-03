@@ -50,10 +50,15 @@ sections:
         content: >
           Cada cliente es un universo único que se tiene que descifrar para
           saber cuáles son sus problemas y después crear soluciones para ellos.
-          ¿cómo lo hacemos? Desde los datos, para observar preferencias,
-          comportamientos y tendencias. Pero también hablando con él, para saber
-          cuales son sus expectativas, el por qué consume este producto ó
-          servicio y no otro y entender sus emociones. 
+          ¿cómo lo hacemos? 
+
+
+          *   Desde los datos, para observar preferencias, comportamientos y
+          tendencias.
+
+
+          *   Hablando con él, para saber cuales son sus expectativas, el por
+          qué consume este producto ó servicio y entender sus emociones.
 
 
           Una operación que funcione en pro de entender el cliente, es una
