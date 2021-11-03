@@ -43,7 +43,7 @@ sections:
   - section_id: services
     type: section_grid
     title: ¿Cómo lo hago?
-    subtitle: An optional subtitle of the section
+    subtitle: 'Tengo una estrategia completamente '
     col_number: two
     is_numbered: true
     grid_items:
