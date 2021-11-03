@@ -94,7 +94,7 @@ sections:
           del cliente llevando su experiencia al siguiente nivel, al igual que
           el *Lifetime Value* (LTV) de la compañia. 
 
-        title: ¡Sorpréndelos!
+        title: 'Primero la '
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
