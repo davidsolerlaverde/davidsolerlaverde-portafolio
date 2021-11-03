@@ -106,7 +106,7 @@ sections:
     subtitle: >-
       No me enfoco en la competencia, me enfoco en el consumidor. Él nos paga
       por solucionarle su vida y esa es la razón de ser de cualquier empresa
-  - section_id: Sistemas Operacionales Eficientes
+  - section_id: 'Adrenalina como '
     type: section_portfolio
     layout_style: mosaic
     title: Casos de éxito
