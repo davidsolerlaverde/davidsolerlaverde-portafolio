@@ -28,10 +28,7 @@ export default class SectionContent extends React.Component {
                         </div>
                     )}
                     {content && <div className="block-content inner-sm">{markdownify(content)}</div>}
-                    <!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/davidsolerlaverde/comopuedoayudarte" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
+                    
                 </div>
             </section>
         );
