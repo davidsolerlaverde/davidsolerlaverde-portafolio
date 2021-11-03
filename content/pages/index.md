@@ -94,7 +94,7 @@ sections:
           del cliente llevando su experiencia al siguiente nivel, al igual que
           el *Lifetime Value* (LTV) de la compañia. 
 
-        title: 'Primero la '
+        title: Primero la Experiencia del Cliente
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
