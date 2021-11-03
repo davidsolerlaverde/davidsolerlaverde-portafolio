@@ -19,10 +19,9 @@ sections:
       [@davidsolerlaverde](https://www.instagram.com/davidsolerlaverde/)
 
 
-      ##### Videollamada: 
-
-
-      #####
+      ##### O tengamos una
+      [videollamada](https://calendly.com/davidsolerlaverde/comopuedoayudarte)
+      de 15 minutos cuando mejor te convenga.
     type: section_content
     title: >-
       Por email, videollamada o redes sociales, porque la eficiencia es NUESTRA
