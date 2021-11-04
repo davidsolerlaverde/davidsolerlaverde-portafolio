@@ -101,10 +101,9 @@ sections:
         content: >
           Todo sistema operacional se mide por la eficiencia, beneficio vs costo
           y la satisfacción del cliente. Estos tres factores desatan adrenalina
-          en todos los miembros de estos sistemas, pero lo importante es que la
-          adrenalina no se convierta en caos. Por eso me aseguro tener
-          operaciones eficientes y con alta satisfacción del cliente a través
-          de:
+          en todo el sistema, pero la clave es que la adrenalina no se convierta
+          en caos. Por eso me aseguro de liderar operaciones eficientes y con
+          alta satisfacción del cliente a través de:
 
 
           *   *Pensamiento Sistémico*: Soy capaz de entender cualquier sistema
