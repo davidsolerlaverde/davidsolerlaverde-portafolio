@@ -98,10 +98,12 @@ sections:
           sorprende.
         title: Customer Experience = Excelencia
       - title: Eficiencia x Adrenalina
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: |
+          *   Tecnología
+
+          *   Metodologías
+
+          *   Pensamiento Sistémico
       - title: Trabajo en Equipo ^ Liderazgo
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
