@@ -109,21 +109,25 @@ sections:
 
           *   *Pensamiento Sistémico*: Soy capaz de entender cualquier sistema
           como una sumatoria de sus partes. Entiendo los principales
-          stakeholders, recursos y limitaciones y tomo decisiones que atacan
-          problemas de raíz y generan mejoras estructurales, no temporales.
+          stakeholders, recursos y limitaciones y para generar mejoras
+          estructurales, no temporales.
+
+
+          <!---->
 
 
           *   *Tecnología:* Innovación y Evolución van de la mano. Por eso
-          diseño, lidero e implemento proyectos de transformación digital que
-          optimizan los procesos, decrecen el costo/beneficio y que son capaces
-          de soportar un crecimiento exponencial.
+          diseño, lidero e implemento proyectos de transformación digital
+          optimizando procesos, decreciendo el costo/beneficio y soportando un
+          crecimiento exponencial.
 
 
-          *   *Metodologías*: Operaciones exitosas combinan 20% de planeación,
-          80% de ejecución pero todo sobre un 100% de metodologías. Por eso
-          tengo una caja de herramientas con metodologías como PMP, Agile, Lean,
-          Design Thinking, Canva Model y Six Sigma que permiten brindar
-          soluciones y trazar rutas de mejora continua.
+          <!---->
+
+
+          *   *Metodologías*: Operaciones exitosas son 20% de planeación, 80% de
+          ejecución pero 100% metódicas. Por eso implemento metodologías como
+          PMP, Agile, Lean, Design Thinking, Canva Model y Six Sigma.
 
 
           ¿Qué se siente ganar un mundial de fútbol después de un partido
