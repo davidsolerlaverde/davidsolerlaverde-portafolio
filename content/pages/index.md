@@ -50,7 +50,7 @@ sections:
         content: >
           Cada cliente es un universo único que se tiene que descifrar para
           saber cuáles son sus problemas y después crear soluciones para ellos.
-          ¿cómo lo hacemos?
+          ¿Cómo lo hago?
 
 
           *   *Desde los datos*, para encontrar preferencias, comportamientos y
