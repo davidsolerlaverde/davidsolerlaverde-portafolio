@@ -109,7 +109,7 @@ sections:
     subtitle: >-
       Me enfoco en los consumidores, no en los competidores. ¿Qué buscan los
       consumidores? Soluciones a sus problemas más importantes. Mi estrategia
-      tiene 4 pilares fundamentales que buscan crear y ofrecer soluciones
+      tiene 4 pilares fundamentales que buscan crear y brindar soluciones
       atractivas y eficaces para los consumidores.
   - type: section_portfolio
     layout_style: mosaic
