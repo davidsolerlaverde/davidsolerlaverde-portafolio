@@ -131,8 +131,8 @@ sections:
 
 
           ¿Qué se siente ganar un mundial de fútbol después de un partido
-          difícil? Es lo mismo que cerrar un excelente y no-caótico día
-          operativo con alta adrenalina.
+          difícil? Es lo mismo que cerrar un excelente día operativo con alta
+          adrenalina – y sin caos.
       - title: Trabajo en Equipo ^ Liderazgo
         content: |
           *   Liderazgo
