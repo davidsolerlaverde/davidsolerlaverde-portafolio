@@ -113,14 +113,10 @@ sections:
           problemas de raíz y generan mejoras estructurales, no temporales.
 
 
-
-
           *   *Tecnología:* Innovación y Evolución van de la mano. Por eso
           diseño, lidero e implemento proyectos de transformación digital que
           optimizan los procesos, decrecen el costo/beneficio y que son capaces
           de soportar un crecimiento exponencial.
-
-
 
 
           *   *Metodologías*: Operaciones exitosas combinan 20% de planeación,
@@ -128,6 +124,10 @@ sections:
           tengo una caja de herramientas con metodologías como PMP, Agile, Lean,
           Design Thinking, Canva Model y Six Sigma que permiten brindar
           soluciones y trazar rutas de mejora continua.
+
+
+          ¿Qué se siente ganar un mundial después de un partido complejo? Es lo
+          mismo que cerrar un excelente día operativo con alta adrenalina. 
       - title: Trabajo en Equipo ^ Liderazgo
         content: |
           *   Liderazgo
