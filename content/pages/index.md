@@ -107,9 +107,9 @@ sections:
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
     subtitle: >-
-      No me enfoco en la competidores, me enfoco en los consumidores. Ellos son
-      los que tienen la llave del éxito de todo negocio ya que buscan soluciones
-      a sus problemas,
+      No me enfoco en la competidores, me enfoco en los consumidores. Mi
+      estrategia tiene 4 pilares fundamentales que buscan crear soluciones a los
+      problemas de los consumidores. Estos pilares son:
   - type: section_portfolio
     layout_style: mosaic
     title: Casos de éxito
