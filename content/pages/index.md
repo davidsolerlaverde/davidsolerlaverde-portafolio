@@ -99,11 +99,10 @@ sections:
         title: Customer Experience = Excelencia
       - title: Eficiencia x Adrenalina
         content: >
-          Todo sistema operacional se mide por la eficiencia, beneficio vs costo
-          y la satisfacción del cliente. Estos tres factores desatan adrenalina
-          en todo el sistema, pero la clave es que la adrenalina no se convierta
-          en caos. Por eso me aseguro de liderar operaciones eficientes y con
-          alta satisfacción del cliente a través de:
+          El combustible de las operaciones es la adrenalina, pero la clave es
+          que la adrenalina no se convierta en caos. Por eso me aseguro de
+          liderar operaciones eficientes, con alta satisfacción del cliente y
+          costo/beneficiosas a través de:
 
 
           *   *Pensamiento Sistémico*: Soy capaz de entender cualquier sistema
