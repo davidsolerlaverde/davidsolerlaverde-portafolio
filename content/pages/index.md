@@ -107,8 +107,9 @@ sections:
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
     subtitle: >-
-      No me enfoco en la competencia, me enfoco en el consumidor. XXXXXXXXXXXXXX
-      REVISAR XXXXXXXXX
+      No me enfoco en la competidores, me enfoco en los consumidores. Ellos son
+      los que tienen la llave del éxito de todo negocio ya que buscan soluciones
+      a sus problemas,
   - type: section_portfolio
     layout_style: mosaic
     title: Casos de éxito
