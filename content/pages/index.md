@@ -105,9 +105,12 @@ sections:
 
           *   Pensamiento Sistémico
       - title: Trabajo en Equipo ^ Liderazgo
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: |
+          *   Liderazgo
+
+          *   Capacitación
+
+          *   Comunicación
     subtitle: >-
       Me enfoco en los consumidores, no en los competidores. ¿Qué buscan los
       consumidores? Soluciones a sus problemas más importantes. Mi estrategia
