@@ -113,23 +113,21 @@ sections:
           problemas de raíz y generan mejoras estructurales, no temporales.
 
 
-          <!---->
 
 
-          *   *Tecnología: *Innovación y Evolución van de la mano. Por eso
+          *   *Tecnología:* Innovación y Evolución van de la mano. Por eso
           diseño, lidero e implemento proyectos de transformación digital que
           optimizan los procesos, decrecen el costo/beneficio y que son capaces
-          de soportar un crecimiento exponencial. 
+          de soportar un crecimiento exponencial.
 
 
-          <!---->
 
 
-          *   *Metodologías: *Operaciones exitosas combinan 20% de planeación,
+          *   *Metodologías*: Operaciones exitosas combinan 20% de planeación,
           80% de ejecución pero todo sobre un 100% de metodologías. Por eso
           tengo una caja de herramientas con metodologías como PMP, Agile, Lean,
           Design Thinking, Canva Model y Six Sigma que permiten brindar
-          soluciones y trazar rutas de mejora continua. 
+          soluciones y trazar rutas de mejora continua.
       - title: Trabajo en Equipo ^ Liderazgo
         content: |
           *   Liderazgo
