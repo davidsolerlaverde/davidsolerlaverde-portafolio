@@ -108,8 +108,8 @@ sections:
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
     subtitle: >-
       No me enfoco en la competidores, me enfoco en los consumidores. Mi
-      estrategia tiene 4 pilares fundamentales que buscan crear soluciones a los
-      problemas de los consumidores. Estos pilares son:
+      estrategia tiene 4 pilares fundamentales que buscan crear y ejecutar
+      soluciones a los problemas de los consumidores.
   - type: section_portfolio
     layout_style: mosaic
     title: Casos de éxito
