@@ -107,9 +107,10 @@ sections:
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
     subtitle: >-
-      No me enfoco en la competidores, me enfoco en los consumidores. Mi
-      estrategia tiene 4 pilares fundamentales que buscan crear y ejecutar
-      soluciones a los problemas de los consumidores.
+      No me enfoco en la competidores, me enfoco en los consumidores. ¿Qué
+      buscan los consumidores? Soluciones para sus problemas. Mi estrategia
+      tiene 4 pilares fundamentales que buscan crear y ofrecer soluciones
+      atractivas para los consumidores.
   - type: section_portfolio
     layout_style: mosaic
     title: Casos de éxito
