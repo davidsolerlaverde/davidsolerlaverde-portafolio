@@ -111,11 +111,10 @@ sections:
     grid_items:
       - title: Datos + Perspectivas + Tendencias
         content: >
-          Cada cliente es un universo único que se tiene que descifrar para
-          encontrar sus problemas
+          Los problemas de los clientes se tienen que buscar, leer y descifrar
 
 
-          *   *Desde los datos: capturo y analizo datos para encontrar*
+          *   *Desde los datos: Capturo y analizo datos para encontrar*
           preferencias, comportamientos y problemas.
 
 
