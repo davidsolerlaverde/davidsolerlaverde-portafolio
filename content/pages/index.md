@@ -160,10 +160,9 @@ sections:
         title: Customer Experience = Excelencia
       - title: Eficiencia x Adrenalina
         content: >
-          El combustible de las operaciones es la adrenalina, pero la clave es
-          que esta no se convierta en caos. Por eso lidero operaciones
-          eficientes, con alta satisfacción del cliente y costo/beneficiosas a
-          través de:
+          La adrenalina y la eficiencia son el combustible de las operaciones.
+          Por eso lidero operaciones eficientes, con alta satisfacción del
+          cliente y costo/beneficiosas a través de:
 
 
           *   *Pensamiento Sistémico*: Soy capaz de entender cualquier sistema
