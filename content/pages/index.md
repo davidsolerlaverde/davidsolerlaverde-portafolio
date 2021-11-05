@@ -189,7 +189,7 @@ sections:
 
           Un consumidor feliz y leal traerá a 4 clientes más. Un consumidor
           insatisfecho, espantará a 8 clientes más.
-      - title: Trabajo en Equipo ^ Liderazgo
+      - title: Trabajo en Equipo x Liderazgo
         content: >
           No importa si es la NASA o un negocio local, las operaciones son
           personas interactuando con otras personas. Por eso lidero equipos de
