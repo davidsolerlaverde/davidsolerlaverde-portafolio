@@ -168,17 +168,16 @@ sections:
 
           Empleados: 0
       - title: Avianca
-        content: >-
-          ## Lorem ipsum
+        content: |
+          **Coordinador de Operaciones**
 
+          **Analista de Operaciones **
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Sector: Aviación
 
+          Clientes impactados: +3.5 Millones / Año
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          Empleados: 80 directos y 3.000 indirectos
         actions: []
         image: /images/Avianca.png
     type: section_grid
