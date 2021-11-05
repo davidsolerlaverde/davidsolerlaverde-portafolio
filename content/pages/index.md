@@ -93,7 +93,7 @@ sections:
         content: |
           ##### Analista de Investigación
 
-          *   *Sector*: Consultoría en Seguridad y Defensa
+          *   *Sector*: Consultoría en Seguridad y Defensa 
 
           *   *Proyectos*: 1 sector privado y 3 con sector público
 
