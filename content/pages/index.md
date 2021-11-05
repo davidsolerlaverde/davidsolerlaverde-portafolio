@@ -159,10 +159,9 @@ sections:
           sorprende.
         title: Customer Experience = Excelencia
       - title: Eficiencia > Caos
-        content: >
-          La adrenalina y la eficiencia son el combustible de las operaciones.
-          Por eso lidero operaciones eficientes, con alta satisfacción del
-          cliente y costo/beneficiosas a través de:
+        content: >+
+          Lidero operaciones eficientes, con alta satisfacción del cliente y
+          costo/beneficiosas a través de:
 
 
           *   *Pensamiento Sistémico*: Soy capaz de entender cualquier sistema
@@ -187,10 +186,6 @@ sections:
           ejecución pero 100% metódicas. Por eso implemento metodologías como
           PMP, Agile, Lean, Design Thinking, Canva Model y Six Sigma.
 
-
-          ¿Qué se siente ganar un mundial de fútbol después de un partido
-          difícil? Es lo mismo que cerrar un excelente día operativo con alta
-          adrenalina y sin caos para el cliente.
       - title: Trabajo en Equipo ^ Liderazgo
         content: |
           *   Liderazgo
