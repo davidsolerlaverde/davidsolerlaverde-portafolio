@@ -190,12 +190,30 @@ sections:
           1 consumidor feliz y leal traerá por lo menos a 4 más. 1 consumidor
           insatisfecho, espantará a 8 más. 
       - title: Trabajo en Equipo ^ Liderazgo
-        content: |
-          *   Liderazgo
+        content: >
+          No importa si es la NASA o un negocio local, las operaciones son
+          personas haciendo felices a otras personas. Por eso lidero equipos de
+          alto rendimiento basados en:
 
-          *   Capacitación
 
-          *   Comunicación
+          *   *Mentoria*: Construyo los líderes del mañana trazando y
+          acompañando los planes de crecimiento, delegando tareas y
+          transmitiendo mi conocimiento.
+
+
+          *   *Capacitación*: El arma más poderosa de una operación es el
+          conocimiento conjunto. Por eso diseño sistemas de capacitación para
+          que las personas puedan investigar, aprender y solucionar problemas de
+          manera individual.
+
+
+          *   *Comunicación*: Creo sistemas de comunicación que permiten
+          claridad y objetividad en los mensajes dandole más eficiencia a las
+          operaciones. 
+
+
+          El éxito de una operación es que la persona nueva tome decisiones como
+          si fuera el dueño del negocio. 
     subtitle: >-
       Me enfoco en los consumidores, no en los competidores. ¿Qué buscan los
       consumidores? Soluciones a sus problemas más importantes. Mi estrategia
