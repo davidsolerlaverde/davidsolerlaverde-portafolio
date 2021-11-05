@@ -159,9 +159,9 @@ sections:
           sorprende.
         title: Customer Experience = Excelencia
       - title: Eficiencia > Caos
-        content: >+
-          Lidero operaciones eficientes, con alta satisfacción del cliente y
-          costo/beneficiosas a través de:
+        content: >
+          El caos operacional espanta a los clientes, la eficiencia los vuelve
+          leales. Una operación eficiente 
 
 
           *   *Pensamiento Sistémico*: Soy capaz de entender cualquier sistema
@@ -185,7 +185,6 @@ sections:
           *   *Metodologías*: Operaciones exitosas son 20% planeación, 80%
           ejecución pero 100% metódicas. Por eso implemento metodologías como
           PMP, Agile, Lean, Design Thinking, Canva Model y Six Sigma.
-
       - title: Trabajo en Equipo ^ Liderazgo
         content: |
           *   Liderazgo
