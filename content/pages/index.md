@@ -185,6 +185,10 @@ sections:
           *   *Metodologías*: Operaciones exitosas son 20% planeación, 80%
           ejecución pero 100% metódicas. Por eso implemento metodologías como
           PMP, Agile, Lean, Design Thinking, Canva Model y Six Sigma.
+
+
+          El mejor canal de crecimiento es el boca a boca (WOM) y su peor
+          enemigo es el caos operacional.
       - title: Trabajo en Equipo ^ Liderazgo
         content: |
           *   Liderazgo
