@@ -47,17 +47,14 @@ sections:
     grid_items:
       - title: Viajero Hostels
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |
+          ##### COO
 
+          *   *Sector*: Hoteleria y Alimentos & Bebidas
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   *Clientes impactados:* +250.000 anuales
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   *Equipo*: 120 personas directas
         actions: []
         image: /images/VH.png
       - title: GSDplus
