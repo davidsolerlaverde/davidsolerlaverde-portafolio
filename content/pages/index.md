@@ -66,8 +66,7 @@ sections:
           Inteligentes)
 
 
-          *   *Proyectos*: 1 sector público, 1 sector privado y 1 organización
-          multilateral
+          *   *Clientes*: Guyanese Ministry of Public Works (MOPW), CAF y DVDH
 
 
           *   *Equipo*: 4 personas
