@@ -112,7 +112,7 @@ sections:
       - title: Datos + Perspectivas + Tendencias
         content: >
           Cada cliente es un universo único que se tiene que descifrar para
-          saber cuáles son sus problemas y después crear soluciones para ellos,
+          encontrar sus problemas
 
 
           *   *Desde los datos*, para encontrar preferencias, comportamientos y
@@ -127,8 +127,8 @@ sections:
           nuevos *drivers* y mercados potenciales
 
 
-          Una operación que funcione en pro de entender el cliente, es una
-          operación que está en constante mejora continua
+          Una operación que solucione problemas al cliente es una operación que
+          está en constante mejora continua
       - content: >
           La información representa lo que les duele a los consumidores, la
           innovación crea las soluciones a esos dolores. Por eso es que:
