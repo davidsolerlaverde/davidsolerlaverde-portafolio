@@ -60,17 +60,14 @@ sections:
           - dolor sit amet
         actions: []
       - title: GSDplus
-        content: >-
-          ## Lorem ipsum
+        content: |
+          ##### Consultor Senior
 
+          *   *Sector*: Consultoría en Transporte y Sistemas Inteligentes (IT)
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   *Proyectos*: 2
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   *Equipo*: 4 personas
         actions: []
         image: /images/GSDplus.png
       - title: Avianca
