@@ -156,7 +156,7 @@ sections:
     col_number: two
     is_numbered: false
     grid_items:
-      - title: lorem-ipsum
+      - title: Decisive Point
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
