@@ -158,7 +158,7 @@ sections:
           Una gran compañía le cumple a su cliente, una excelente compañía los
           sorprende.
         title: Customer Experience = Excelencia
-      - title: Eficiencia x Adrenalina
+      - title: Eficiencia > Caos
         content: >
           La adrenalina y la eficiencia son el combustible de las operaciones.
           Por eso lidero operaciones eficientes, con alta satisfacción del
