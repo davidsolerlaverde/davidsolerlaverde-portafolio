@@ -59,7 +59,7 @@ sections:
 
           - dolor sit amet
         actions: []
-      - title: lorem-ipsum
+      - title: GSDplus
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
