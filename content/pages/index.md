@@ -90,12 +90,16 @@ sections:
         image_alt: fgafasdfasdf
         actions: []
         image: /images/Decisive Point.png
-        content: |
+        content: >
           ##### Analista de Investigación
 
-          *   *Sector*: Consultoría en Seguridad y Defensa 
 
-          *   *Proyectos*: 1 sector privado y 3 con sector público
+          *   *Sector*: Consultoría en Seguridad y Defensa
+
+
+          *   *Clientes*: 4 proyectos para USAID, MinDefensa, UNRT, DANE y 1
+          compañía minera.
+
 
           *   *Equipo*: 0 personas
     type: section_grid
