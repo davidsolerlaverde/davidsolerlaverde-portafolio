@@ -73,6 +73,7 @@ sections:
 
           - dolor sit amet
         actions: []
+        image: /images/GSDplus.png
       - title: Avianca
         content: |
           ##### Coordinador de Operaciones
