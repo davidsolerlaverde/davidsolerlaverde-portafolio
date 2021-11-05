@@ -153,7 +153,7 @@ sections:
   - title: ¿Con quién he trabajado?
     section_id: Experiencia
     col_number: two
-    is_numbered: false
+    is_numbered: true
     grid_items:
       - title: Decisive Point
         image_alt: fgafasdfasdf
