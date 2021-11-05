@@ -45,7 +45,7 @@ sections:
     col_number: two
     is_numbered: false
     grid_items:
-      - title: lorem-ipsum
+      - title: Viajero Hostels
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
