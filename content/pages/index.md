@@ -169,11 +169,11 @@ sections:
           Empleados: 0
       - title: Avianca
         content: |
-          #### Coordinador de Operaciones
+          ##### Coordinador de Operaciones
 
-          #### Analista de Operaciones
+          ##### Analista de Operaciones
 
-          *   *Sector*: Aviación
+          *Sector*: Aviación
 
           <!---->
 
