@@ -65,7 +65,7 @@ sections:
 
           *   *Sector*: Consultoría en Transporte y Sistemas Inteligentes (IT)
 
-          *   *Proyectos*: 2
+          *   *Proyectos*: 1 sector público y 1 organizaciones multilateral
 
           *   *Equipo*: 4 personas
         actions: []
