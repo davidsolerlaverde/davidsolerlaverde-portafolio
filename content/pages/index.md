@@ -56,7 +56,7 @@ sections:
 
           *   *Proyectos*: 1 sector privado y 3 con sector público
 
-          *   *Colaboradores liderados*: 0
+          *   *Equipo*: 0 colaboradores
       - title: Avianca
         content: |
           ##### Coordinador de Operaciones
