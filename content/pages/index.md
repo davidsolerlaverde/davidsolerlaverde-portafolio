@@ -84,6 +84,20 @@ sections:
 
           - dolor sit amet
         actions: []
+      - title: lorem-ipsum
+        image_alt: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
     type: section_grid
   - section_id: services
     type: section_grid
