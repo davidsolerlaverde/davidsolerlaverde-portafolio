@@ -173,7 +173,7 @@ sections:
 
           ##### Analista de Operaciones
 
-          *Sector*: Aviación
+          *   *Sector*: Aviación
 
           <!---->
 
