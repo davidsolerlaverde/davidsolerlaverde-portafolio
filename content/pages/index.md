@@ -97,7 +97,7 @@ sections:
           *   *Sector*: Consultoría en Seguridad y Defensa
 
 
-          *   *Clientes*: 4 proyectos para USAID, MinDefensa, UNRT, DANE y 1
+          *   *Clientes*: 4 proyectos para MinDefensa, USAID, UNRT, DANE y 1
           compañía minera.
 
 
