@@ -162,11 +162,11 @@ sections:
         content: |
           ##### Analista de Investigación
 
-          *Sector*: Seguridad y Defensa
+          *   *Sector*: Seguridad y Defensa
 
-          *Proyectos*: 4
+          *   *Proyectos*: 4
 
-          *Empleados*: 0
+          *   *Empleados*: 0
       - title: Avianca
         content: |
           ##### Coordinador de Operaciones
