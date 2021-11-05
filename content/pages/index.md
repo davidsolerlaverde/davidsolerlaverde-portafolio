@@ -40,6 +40,37 @@ sections:
         icon: github
         new_window: true
         no_follow: false
+  - title: ¿Con quién he trabajado?
+    section_id: Experiencia
+    col_number: two
+    is_numbered: false
+    grid_items:
+      - title: Decisive Point
+        image_alt: fgafasdfasdf
+        actions: []
+        image: /images/Decisive Point.png
+        content: |
+          ##### Analista de Investigación
+
+          *   *Sector*: Seguridad y Defensa
+
+          *   *Proyectos*: 4
+
+          *   *Empleados*: 0
+      - title: Avianca
+        content: |
+          ##### Coordinador de Operaciones
+
+          ##### Analista de Operaciones
+
+          *   *Sector*: Aviación
+
+          *   *Clientes impactados*: +3.5 Millones anuales
+
+          *   *Empleados*: 80 directos y 3.000 indirectos
+        actions: []
+        image: /images/Avianca.png
+    type: section_grid
   - section_id: services
     type: section_grid
     title: ¿Cómo lo hago?
@@ -150,37 +181,6 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
-  - title: ¿Con quién he trabajado?
-    section_id: Experiencia
-    col_number: two
-    is_numbered: false
-    grid_items:
-      - title: Decisive Point
-        image_alt: fgafasdfasdf
-        actions: []
-        image: /images/Decisive Point.png
-        content: |
-          ##### Analista de Investigación
-
-          *   *Sector*: Seguridad y Defensa
-
-          *   *Proyectos*: 4
-
-          *   *Empleados*: 0
-      - title: Avianca
-        content: |
-          ##### Coordinador de Operaciones
-
-          ##### Analista de Operaciones
-
-          *   *Sector*: Aviación
-
-          *   *Clientes impactados*: +3.5 Millones anuales
-
-          *   *Empleados*: 80 directos y 3.000 indirectos
-        actions: []
-        image: /images/Avianca.png
-    type: section_grid
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
