@@ -197,8 +197,8 @@ sections:
 
 
           *   *Mentoria*: Construyo los líderes del mañana trazando y
-          acompañando los planes de crecimiento, delegando tareas y
-          transmitiendo mi conocimiento.
+          acompañando sus planes de crecimiento, delegándoles tareas importantes
+          y transmitiéndoles lo que he aprendido de otros.
 
 
           *   *Capacitación*: El arma más poderosa de una operación es el
