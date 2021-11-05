@@ -181,6 +181,7 @@ sections:
 
           - dolor sit amet
         actions: []
+        image: /images/Avianca.png
     type: section_grid
 seo:
   title: Stackbit Exto Theme
