@@ -62,7 +62,8 @@ sections:
           ##### Consultor Senior
 
 
-          *   *Sector*: Consultoría en Transporte y Sistemas Inteligentes (IT)
+          *   *Sector*: Consultoría en Transporte y Tecnología (Sistemas
+          Inteligentes)
 
 
           *   *Proyectos*: 1 sector público, 1 sector privado y 1 organización
