@@ -175,11 +175,7 @@ sections:
 
           *   *Sector*: Aviación
 
-          <!---->
-
-          *   *Clientes impactados*: +3.5 Millones / Año
-
-          <!---->
+          *   *Clientes impactados*: +3.5 Millones anuales
 
           *   *Empleados*: 80 directos y 3.000 indirectos
         actions: []
