@@ -170,6 +170,7 @@ sections:
 
           - dolor sit amet
         actions: []
+        image: /images/Decisive Point.png
     type: section_grid
 seo:
   title: Stackbit Exto Theme
