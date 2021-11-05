@@ -157,7 +157,7 @@ sections:
     is_numbered: false
     grid_items:
       - title: Decisive Point
-        image_alt: lorem-ipsum
+        image_alt: fgafasdfasdf
         actions: []
         image: /images/Decisive Point.png
     type: section_grid
