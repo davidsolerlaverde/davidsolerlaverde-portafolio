@@ -58,12 +58,16 @@ sections:
         actions: []
         image: /images/VH.png
       - title: GSDplus
-        content: |
+        content: >
           ##### Consultor Senior
+
 
           *   *Sector*: Consultoría en Transporte y Sistemas Inteligentes (IT)
 
-          *   *Proyectos*: 1 sector público y 1 organizaciones multilateral
+
+          *   *Proyectos*: 1 sector público, 1 sector privado y 1 organización
+          multilateral
+
 
           *   *Equipo*: 4 personas
         actions: []
