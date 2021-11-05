@@ -150,7 +150,7 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
-  - title: lorem-ipsum
+  - title: ¿Con quién he trabajado?
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: two
