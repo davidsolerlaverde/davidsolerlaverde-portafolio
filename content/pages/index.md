@@ -94,7 +94,7 @@ sections:
 
           *   *Proyectos*: 1 sector privado y 3 con sector público
 
-          *   *Equipo*: 0 colaboradores
+          *   *Equipo*: 0 personas
     type: section_grid
   - section_id: services
     type: section_grid
