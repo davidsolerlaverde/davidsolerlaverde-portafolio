@@ -164,19 +164,18 @@ sections:
           leales. Para liderar operaciones eficientes, se necesita:
 
 
-          *   *Pensamiento Sistémico*: Soy capaz de entender cualquier sistema
-          como una sumatoria de sus partes. Entiendo los principales
-          stakeholders, recursos y limitaciones y para generar mejoras
-          estructurales, no temporales.
+          *   *Pensamiento Sistémico*: Entiendo los sistemas como una sumatoria
+          de sus partes. Hallo sus principales stakeholders, recursos y
+          limitaciones para generar mejoras estructurales y definitivas, no
+          temporales.
 
 
           <!---->
 
 
-          *   *Tecnología:* Innovación y Evolución van de la mano. Por eso
-          diseño, lidero e implemento proyectos de transformación digital
-          optimizando procesos, decreciendo el costo/beneficio y soportando un
-          crecimiento exponencial.
+          *   *Tecnología:* Innovo a través de proyectos de transformación
+          digital optimizando procesos, decreciendo el costo/beneficio y
+          soportando un crecimiento exponencial.
 
 
           <!---->
