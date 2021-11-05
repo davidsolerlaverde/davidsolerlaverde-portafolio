@@ -160,7 +160,7 @@ sections:
         actions: []
         image: /images/Decisive Point.png
         content: |
-          **Analista de Investigación**
+          ##### **Analista de Investigación**
 
           Sector: Seguridad y Defensa
 
