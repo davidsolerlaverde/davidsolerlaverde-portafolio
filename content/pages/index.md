@@ -67,7 +67,7 @@ sections:
 
           *   *Clientes impactados*: +3.5 Millones anuales
 
-          *   *Empleados*: 80 directos y 3.000 indirectos
+          *   Equipo: 80 colaboradores directos y 3.000 indirectos
         actions: []
         image: /images/Avianca.png
     type: section_grid
