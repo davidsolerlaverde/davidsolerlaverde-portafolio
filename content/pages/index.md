@@ -151,7 +151,7 @@ sections:
     view_all_label: View All
     view_all_url: portfolio
   - title: ¿Con quién he trabajado?
-    section_id: lorem-ipsum
+    section_id: Experiencia
     subtitle: lorem-ipsum
     col_number: two
     is_numbered: false
