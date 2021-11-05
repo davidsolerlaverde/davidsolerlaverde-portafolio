@@ -54,9 +54,9 @@ sections:
 
           *   *Sector*: Seguridad y Defensa
 
-          *   *Proyectos*: 4
+          *   *Proyectos*: 1 sector privado y 3 con sector público
 
-          *   *Empleados*: 0
+          *   *Colaboradores liderados*: 0
       - title: Avianca
         content: |
           ##### Coordinador de Operaciones
