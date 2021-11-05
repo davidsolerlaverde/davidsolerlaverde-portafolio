@@ -115,20 +115,22 @@ sections:
           encontrar sus problemas
 
 
-          *   *Desde los datos*, para encontrar preferencias, comportamientos y
-          problemas.
+          *   *Desde los datos: capturo y analizo datos para encontrar*
+          preferencias, comportamientos y problemas.
 
 
-          *   *Desde sus perspectivas*, para saber cuales son sus expectativas,
-          el por qué consume este producto ó servicio y entender sus emociones.
+          *   *Desde sus perspectivas: Entrevisto* consumidores para saber sus
+          expectativas, el por qué consume este producto ó servicio y entender
+          sus emociones.
 
 
-          *   *Desde las tendencias*, para encontrar cambios en el consumo,
-          nuevos *drivers* y mercados potenciales
+          *   *Desde las tendencias: Investigo en sitios especializados* para
+          encontrar cambios en el consumo, nuevos *drivers* y mercados
+          potenciales
 
 
-          Una operación que solucione problemas al cliente es una operación que
-          está en constante mejora.
+          La única operación que está en constante mejora es aquella que siempre
+          está buscando soluciones a los problemas de sus clientes
       - content: >
           La información representa lo que les duele a los consumidores, la
           innovación crea las soluciones a esos dolores. Por eso es que:
