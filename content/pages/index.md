@@ -187,8 +187,8 @@ sections:
           PMP, Agile, Lean, Design Thinking, Canva Model y Six Sigma.
 
 
-          El mejor canal de crecimiento es el boca a boca (WOM) y su peor
-          enemigo es el caos operacional.
+          1 consumidor feliz y leal traerá por lo menos a 4 más. 1 consumidor
+          insatisfecho, espantará a 8 más. 
       - title: Trabajo en Equipo ^ Liderazgo
         content: |
           *   Liderazgo
