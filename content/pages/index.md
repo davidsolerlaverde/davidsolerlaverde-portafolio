@@ -211,8 +211,8 @@ sections:
           las operaciones.
 
 
-          Un equipo de alto rendimiento es aquel que es capaz de tomar
-          decisiones como lo haría el CEO de la empresa.
+          Un equipo de alto rendimiento es capaz de tomar decisiones en tiempo
+          real como lo haría el CEO de la empresa.
     subtitle: >-
       Me enfoco en los consumidores, no en los competidores. ¿Qué buscan los
       consumidores? Soluciones a sus problemas más importantes. Mi estrategia
