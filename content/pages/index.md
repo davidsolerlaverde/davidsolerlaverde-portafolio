@@ -152,9 +152,8 @@ sections:
 
 
           *   *Los consumidores evolucionan, las empresas deben hacerlo más
-          rápido*: Genero nuevos productos y/o servicios que aumentan la lealtad
-          del cliente llevando su experiencia al siguiente nivel, al igual que
-          el *Lifetime Value* (LTV) de la compañia.
+          rápido*: Genero nuevos productos y/o servicios que mejoran la
+          experiencia del cliente y el *Lifetime Value* (LTV) de la compañia.
 
 
           Una gran compañía le cumple a su cliente, una excelente compañía los
