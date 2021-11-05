@@ -216,8 +216,8 @@ sections:
     subtitle: >-
       Me enfoco en los consumidores, no en los competidores. ¿Qué buscan los
       consumidores? Soluciones a sus problemas más importantes. Mi estrategia
-      tiene 4 pilares fundamentales que brindan soluciones efectivas, atractivas
-      y enganchadoras para los consumidores.
+      tiene 4 pilares fundamentales que brindan esas soluciones efectivas,
+      atractivas y enganchadoras.
   - type: section_portfolio
     layout_style: mosaic
     title: Casos de éxito
