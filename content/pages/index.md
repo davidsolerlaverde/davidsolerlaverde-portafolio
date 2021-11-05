@@ -80,7 +80,7 @@ sections:
 
           *   *Clientes impactados*: +3.5 Millones anuales
 
-          *   Equipo: 80 colaboradores directos y 3.000 indirectos
+          *   Equipo: 80 personas directas y 3.000 indirectas
         actions: []
         image: /images/Avianca.png
       - title: Decisive Point
