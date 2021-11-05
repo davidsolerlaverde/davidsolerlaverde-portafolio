@@ -45,18 +45,6 @@ sections:
     col_number: two
     is_numbered: false
     grid_items:
-      - title: Decisive Point
-        image_alt: fgafasdfasdf
-        actions: []
-        image: /images/Decisive Point.png
-        content: |
-          ##### Analista de Investigación
-
-          *   *Sector*: Consultoría en Seguridad y Defensa
-
-          *   *Proyectos*: 1 sector privado y 3 con sector público
-
-          *   *Equipo*: 0 colaboradores
       - title: Avianca
         content: |
           ##### Coordinador de Operaciones
@@ -98,6 +86,18 @@ sections:
 
           - dolor sit amet
         actions: []
+      - title: Decisive Point
+        image_alt: fgafasdfasdf
+        actions: []
+        image: /images/Decisive Point.png
+        content: |
+          ##### Analista de Investigación
+
+          *   *Sector*: Consultoría en Seguridad y Defensa
+
+          *   *Proyectos*: 1 sector privado y 3 con sector público
+
+          *   *Equipo*: 0 colaboradores
     type: section_grid
   - section_id: services
     type: section_grid
