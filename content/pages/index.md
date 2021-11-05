@@ -159,6 +159,14 @@ sections:
         image_alt: fgafasdfasdf
         actions: []
         image: /images/Decisive Point.png
+        content: |
+          **Analista de Investigación**
+
+          Sector: Seguridad y Defensa
+
+          Proyectos: 4
+
+          Empleados: 0
     type: section_grid
 seo:
   title: Stackbit Exto Theme
