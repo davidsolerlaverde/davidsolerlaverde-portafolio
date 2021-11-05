@@ -222,7 +222,7 @@ sections:
     layout_style: mosaic
     title: Casos de éxito
     subtitle: An optional subtitle of the section
-    projects_number: 6
+    projects_number: 2
     view_all_label: View All
     view_all_url: portfolio
 seo:
