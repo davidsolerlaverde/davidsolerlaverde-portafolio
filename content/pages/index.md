@@ -192,8 +192,8 @@ sections:
       - title: Trabajo en Equipo x Liderazgo
         content: >
           No importa si es la NASA o un negocio local, las operaciones son
-          personas interactuando con otras personas. Por eso lidero equipos de
-          alto rendimiento basado en:
+          equipos personas interactuando con otras personas. Por eso lidero
+          equipos de alto rendimiento basado en:
 
 
           *   *Mentoria*: Formo los líderes del mañana trazando y acompañando
