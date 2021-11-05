@@ -173,11 +173,15 @@ sections:
 
           ##### **Analista de Operaciones**
 
-          Sector: Aviación
+          *   *Sector*: Aviación
 
-          Clientes impactados: +3.5 Millones / Año
+          <!---->
 
-          Empleados: 80 directos y 3.000 indirectos
+          *   *Clientes impactados*: +3.5 Millones / Año
+
+          <!---->
+
+          *   *Empleados*: 80 directos y 3.000 indirectos
         actions: []
         image: /images/Avianca.png
     type: section_grid
