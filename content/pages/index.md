@@ -118,14 +118,14 @@ sections:
           preferencias, comportamientos y problemas.
 
 
-          *   *Desde sus perspectivas: Entrevisto* consumidores para saber sus
-          expectativas, el por qué consume este producto ó servicio y entender
-          sus emociones.
+          *   *Desde sus perspectivas: Voy al terreno para hablar con
+          *consumidores y conocer sus expectativas, el por qué consume este
+          producto ó servicio y entender sus emociones.
 
 
           *   *Desde las tendencias: Investigo en sitios especializados* para
           encontrar cambios en el consumo, nuevos *drivers* y mercados
-          potenciales
+          potenciales.
 
 
           La única operación que está en constante mejora es aquella que siempre
