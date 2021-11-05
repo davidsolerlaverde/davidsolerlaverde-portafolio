@@ -187,8 +187,8 @@ sections:
           PMP, Agile, Lean, Design Thinking, Canva Model y Six Sigma.
 
 
-          1 consumidor feliz y leal traerá por lo menos a 4 más. 1 consumidor
-          insatisfecho, espantará a 8 más. 
+          1 consumidor feliz y leal traerá a 4 clientes más. 1 consumidor
+          insatisfecho, espantará a 8 clientes más.
       - title: Trabajo en Equipo ^ Liderazgo
         content: >
           No importa si es la NASA o un negocio local, las operaciones son
