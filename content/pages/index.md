@@ -168,7 +168,6 @@ sections:
 
           Empleados: 0
       - title: Avianca
-        image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
