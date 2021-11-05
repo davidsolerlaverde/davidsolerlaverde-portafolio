@@ -77,5 +77,6 @@
             }
         ]
     },
-    "domain": "https://davidsolerlaverde-portafolio-b0f12.netlify.app"
+    "domain": "https://davidsolerlaverde-portafolio-b0f12.netlify.app",
+    "favicon": "/images/Iso_No Fondo.png"
 }
