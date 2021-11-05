@@ -59,6 +59,7 @@ sections:
 
           - dolor sit amet
         actions: []
+        image: /images/VH.png
       - title: GSDplus
         content: |
           ##### Consultor Senior
