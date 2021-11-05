@@ -196,24 +196,23 @@ sections:
           alto rendimiento basado en:
 
 
-          *   *Mentoria*: Construyo los líderes del mañana trazando y
-          acompañando sus planes de crecimiento, delegándoles tareas importantes
-          y transmitiéndoles lo que he aprendido de otros.
+          *   *Mentoria*: Formo los líderes del mañana trazando y acompañando
+          sus planes de crecimiento, delegándoles tareas importantes y
+          transmitiéndoles lo que he aprendido de otros.
 
 
-          *   *Capacitación*: El arma más poderosa de una operación es el
-          conocimiento conjunto. Por eso diseño sistemas de capacitación para
-          que las personas puedan investigar, aprender y solucionar problemas de
-          manera individual.
+          *   *Capacitación*: Diseño sistemas de capacitación para que los
+          colaboradores puedan investigar, aprender y solucionar problemas de
+          manera individual generando conocimiento al alcance de todos.
 
 
-          *   *Comunicación*: Creo sistemas de comunicación que permiten
-          claridad y objetividad en los mensajes dandole más eficiencia a las
-          operaciones.
+          *   *Comunicación*: Creo sistemas de comunicación que transmiten
+          claridad y objetividad evitando reprocesos y haciendo más eficientes a
+          las operaciones.
 
 
-          El éxito de una operación es que la persona nueva tome decisiones como
-          si fuera el dueño del negocio.
+          Un equipo de alto rendimiento es aquel que es capaz de tomar
+          decisiones como lo haría el CEO de la empresa.
     subtitle: >-
       Me enfoco en los consumidores, no en los competidores. ¿Qué buscan los
       consumidores? Soluciones a sus problemas más importantes. Mi estrategia
