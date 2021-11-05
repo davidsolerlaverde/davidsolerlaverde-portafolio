@@ -192,8 +192,8 @@ sections:
       - title: Trabajo en Equipo ^ Liderazgo
         content: >
           No importa si es la NASA o un negocio local, las operaciones son
-          personas haciendo felices a otras personas. Por eso lidero equipos de
-          alto rendimiento basados en:
+          personas interactuando con otras personas. Por eso lidero equipos de
+          alto rendimiento basado en:
 
 
           *   *Mentoria*: Construyo los líderes del mañana trazando y
@@ -209,11 +209,11 @@ sections:
 
           *   *Comunicación*: Creo sistemas de comunicación que permiten
           claridad y objetividad en los mensajes dandole más eficiencia a las
-          operaciones. 
+          operaciones.
 
 
           El éxito de una operación es que la persona nueva tome decisiones como
-          si fuera el dueño del negocio. 
+          si fuera el dueño del negocio.
     subtitle: >-
       Me enfoco en los consumidores, no en los competidores. ¿Qué buscan los
       consumidores? Soluciones a sus problemas más importantes. Mi estrategia
