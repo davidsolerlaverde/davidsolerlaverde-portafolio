@@ -7,7 +7,7 @@ sections:
     subtitle: >-
       No sólo es un cliente menos, es dinero y esfuerzo desperdiciados en su
       adquisición (CAC), recompras perdidas (LTV) y clientes potenciales que
-      huyen por sus malos reviews y negativa publicidad boca a boca (WOM)
+      huyen por sus malos reviews y su negativa publicidad boca a boca (WOM)
     title: El 80% de los clientes se pierden por un mal servicio.
   - section_id: hero
     type: section_hero
