@@ -6,7 +6,7 @@ sections:
     image_alt: lorem-ipsum
     content: >
       Un estudio reciente concluyó que **el 80% de los clientes se pierden por
-      una pésima calidad del servicio.** Un cliente perdido es:
+      una pésima calidad del servicio.** No sólo es un cliente menos, es:
 
 
       *   Dinero y esfuerzo desperdiciados en su adquisición (CAC).
