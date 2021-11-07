@@ -143,24 +143,14 @@ sections:
           Procesos, Evaluaciones de desempeño, etc)
 
 
-          <!---->
-
-
           *   *Siempre se debe hacer mejor*: Diseño soluciones para mejorar la
           atención al cliente, agregar valor sin incrementar los costos y
           escalar rápidamente hacía otros mercados.
 
 
-          <!---->
-
-
           *   *Los consumidores evolucionan, las empresas deben hacerlo más
           rápido*: Genero nuevos productos y/o servicios que mejoran la
           experiencia del cliente y el *Lifetime Value* (LTV) de la compañia.
-
-
-          Una gran compañía le cumple a su cliente, una excelente compañía los
-          sorprende.
         title: Customer Experience = Excelencia
       - title: Eficiencia > Caos
         content: >
