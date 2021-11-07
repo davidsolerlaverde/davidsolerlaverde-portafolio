@@ -125,9 +125,9 @@ sections:
           preferencias, comportamientos y problemas.
 
 
-          *   *Desde sus perspectivas*: Voy al terreno para hablar con
-          \*consumidores y conocer sus expectativas, el por qué consume este
-          producto ó servicio y entender sus emociones.
+          *   *Desde sus perspectivas*: Voy al terreno para hablar con los
+          consumidores y conocer sus expectativas, entender sus decisiones y
+          comprender sus emociones.
 
 
           *   *Desde las tendencias: Investigo en sitios especializados* para
