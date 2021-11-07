@@ -18,6 +18,7 @@ sections:
       *   Clientes potenciales que huyen por sus malos reviews y su negativa
       publicidad boca a boca (WOM).
     type: section_content
+    title: ¿Sabías que
   - section_id: hero
     type: section_hero
     title: ¡Hola! Soy David Soler Laverde.
