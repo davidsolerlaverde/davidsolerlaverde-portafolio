@@ -134,13 +134,13 @@ sections:
           encontrar cambios en el consumo, nuevos *drivers* y mercados
           potenciales.
       - content: >
-          La información representa lo que les duele a los consumidores, la
-          innovación crea las soluciones a esos dolores. Por eso es que:
+          "Si no aprecias a tus clientes, alguien más lo hará" (JL). Por eso es
+          que:
 
 
           *   *Los resultados deben ser el Polo Norte*: Evaluo y cambio los
-          sistemas operacionales hacía el logro de resultados (KPIs, OKRs,
-          Procesos, Evaluaciones de desempeño, etc)
+          sistemas operacionales hacía la experiencia del cliente y el logro de
+          resultados (KPIs, OKRs, Procesos, Evaluaciones de desempeño, etc)
 
 
           *   *Siempre se debe hacer mejor*: Diseño soluciones para mejorar la
@@ -150,7 +150,7 @@ sections:
 
           *   *Los consumidores evolucionan, las empresas deben hacerlo más
           rápido*: Genero nuevos productos y/o servicios que mejoran la
-          experiencia del cliente y el *Lifetime Value* (LTV) de la compañia.
+          experiencia del cliente y el *Lifetime Value* (LTV) de la compañía.
         title: Customer Experience = Excelencia
       - title: Eficiencia > Caos
         content: >
