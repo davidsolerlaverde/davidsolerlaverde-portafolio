@@ -180,9 +180,9 @@ sections:
           PMP, Agile, Lean, Design Thinking, Canva Model y Six Sigma.
       - title: Trabajo en Equipo x Liderazgo
         content: >
-          No importa si es la NASA o un negocio local, las operaciones son
-          equipos personas interactuando con otras personas. Por eso lidero
-          equipos de alto rendimiento basado en:
+          No importa la empresa, las operaciones son equipos de personas
+          interactuando con otras personas. Por eso lidero equipos de alto
+          rendimiento basado en:
 
 
           *   *Mentoria*: Formo los líderes del mañana trazando y acompañando
@@ -192,11 +192,12 @@ sections:
 
           *   *Capacitación*: Diseño sistemas de capacitación para que los
           colaboradores puedan investigar, aprender y solucionar problemas de
-          manera individual generando conocimiento al alcance de todos.
+          manera individual mientras generan conocimiento que es puesto al
+          alcance de todos.
 
 
           *   *Comunicación*: Creo sistemas de comunicación que transmiten
-          claridad y objetividad evitando reprocesos y haciendo más eficientes a
+          claridad y objetividad evitando reprocesos y haciendo más eficientes
           las operaciones.
     subtitle: >-
       Me enfoco en los consumidores, no en los competidores. Los consumidores
