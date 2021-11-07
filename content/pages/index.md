@@ -138,13 +138,13 @@ sections:
           que:
 
 
-          *   *Los resultados deben ser el Polo Norte*: Evaluo y cambio los
-          sistemas operacionales hacía la experiencia del cliente y el logro de
-          resultados (KPIs, OKRs, Procesos, Evaluaciones de desempeño, etc)
+          *   *La experiencia del clientes lo es todo*: Evaluo y enfoco las
+          operaciones hacía el cliente y el logro de resultados (KPIs, OKRs,
+          Procesos, Evaluaciones de desempeño, etc)
 
 
-          *   *Siempre se debe hacer mejor*: Diseño soluciones para mejorar la
-          atención al cliente, agregar valor sin incrementar los costos y
+          *   *Siempre se puede hacer mejor*: Diseño soluciones para optimizar
+          la atención al cliente, agregar valor sin incrementar los costos y
           escalar rápidamente hacía otros mercados.
 
 
