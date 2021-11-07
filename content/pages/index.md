@@ -4,17 +4,25 @@ hide_title: true
 sections:
   - section_id: Problemas
     content: >
-      Un estudio reciente concluyó que **el 80% de los clientes se pierden por
-      una pésima calidad del servicio.** No sólo es un cliente menos, es:
+      > Un estudio reciente concluyó que 
+
+      >
+
+      > **el 80% de los clientes se pierden por una pésima calidad del
+      servicio.**
+
+      >
+
+      >  No sólo es un cliente menos, es:
 
 
-      *   Dinero y esfuerzo desperdiciados en su adquisición (CAC).
+      > Dinero y esfuerzo desperdiciados en su adquisición (CAC).
 
 
-      *   Recompras perdidas (LTV)
+      > Recompras perdidas (LTV)
 
 
-      *   Clientes potenciales que huyen por sus malos reviews y su negativa
+      > Clientes potenciales que huyen por sus malos reviews y su negativa
       publicidad boca a boca (WOM).
     type: section_content
   - section_id: hero
