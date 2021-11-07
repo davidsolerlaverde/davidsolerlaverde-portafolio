@@ -118,7 +118,8 @@ sections:
     grid_items:
       - title: Datos + Perspectivas + Tendencias
         content: >
-          Los problemas de los clientes se tienen que buscar, leer y descifrar
+          Los problemas de los clientes se tienen que buscar, leer y
+          descifrar...
 
 
           *   *Desde los datos: Capturo y analizo datos para encontrar*
