@@ -17,7 +17,10 @@ sections:
       *   Clientes potenciales que huyen por sus malos reviews y su negativa
       publicidad boca a boca (WOM).
     type: section_content
-    subtitle: 'No sólo es un cliente menos, es Dinero y es'
+    subtitle: >-
+      No sólo es un cliente menos, es dinero y esfuerzo desperdiciados en su
+      adquisición (CAC), recompras perdidas (LTV) y clientes potenciales que
+      huyen por malos 
   - section_id: hero
     type: section_hero
     title: ¡Hola! Soy David Soler Laverde.
