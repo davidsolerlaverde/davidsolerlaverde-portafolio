@@ -155,7 +155,7 @@ sections:
       - title: Eficiencia > Caos
         content: >
           El caos operacional espanta a los clientes, la eficiencia los vuelve
-          leales. Para liderar operaciones eficientes, se necesita:
+          leales. Para tener operaciones eficientes, se necesita:
 
 
           *   *Pensamiento Sistémico*: Entiendo los sistemas como una sumatoria
