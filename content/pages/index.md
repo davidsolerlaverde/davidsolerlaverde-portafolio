@@ -3,7 +3,7 @@ title: Home
 hide_title: true
 sections:
   - section_id: Problemas
-    image_alt: lorem-ipsum
+    image_alt: gkhlk
     content: >
       Un estudio reciente concluyó que **el 80% de los clientes se pierden por
       una pésima calidad del servicio.** No sólo es un cliente menos, es:
