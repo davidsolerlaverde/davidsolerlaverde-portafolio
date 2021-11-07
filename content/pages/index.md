@@ -2,7 +2,7 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: lorem-ipsum
+  - section_id: Problemas
     image_alt: lorem-ipsum
     content: >
       Un estudio reciente concluyó que **el 80% de los clientes se pierden por
