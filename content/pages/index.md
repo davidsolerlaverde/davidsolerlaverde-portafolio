@@ -4,17 +4,19 @@ hide_title: true
 sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Un estudio reciente concluyó que **el 80% de los clientes se pierden por
+      una pésima calidad del servicio.** Un cliente perdido es:
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      *   Dinero y esfuerzo desperdiciados en su adquisición (CAC).
 
 
-      - Lorem ipsum
+      *   Recompras perdidas (LTV)
 
-      - dolor sit amet
+
+      *   Clientes potenciales que huyen por sus malos reviews y su negativa
+      publicidad boca a boca (WOM).
     type: section_content
   - section_id: hero
     type: section_hero
