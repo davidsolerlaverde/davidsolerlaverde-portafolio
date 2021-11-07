@@ -20,7 +20,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Soy David Soler Laverde.
-    content: "##### Tengo **8+** años de experiencia creando y liderando sistemas operacionales que den una excelente calidad del servicio, solucionen problemas y cumplan con las expectativas del cliente.\n\n##### He impactado **15+** millones de clientes trabajando en Operaciones y Consultoría como COO, Consultor e Intraemprendor en Latinoamérica \U0001F1E8\U0001F1F4\U0001F1FA\U0001F1FE\U0001F1E6\U0001F1F7\U0001F1EC\U0001F1FE\U0001F1F5\U0001F1EA\U0001F1EA\U0001F1E8\U0001F1F8\U0001F1FB\U0001F1F2\U0001F1FD.\n\n##### \U0001F3AF ¿Mi objetivo? Cazar y solucionar todos esos problemas estratégicos que generan clientes insatisfechos en industrias Tech.\n\n##### \U0001F64B\U0001F3FC‍♂️ Estoy comprometido en convertir **TUS** clientes en fans.\n"
+    content: "###### Tengo **8+** años de experiencia liderando operaciones que den una excelente calidad de servicio, solucionen problemas y cumplan con las expectativas del cliente.\n\n###### He impactado **15+** millones de consumidores trabajando en Operaciones y Consultoría como COO, Consultor e Intraemprendor en Latinoamérica \U0001F1E8\U0001F1F4\U0001F1FA\U0001F1FE\U0001F1E6\U0001F1F7\U0001F1EC\U0001F1FE\U0001F1F5\U0001F1EA\U0001F1EA\U0001F1E8\U0001F1F8\U0001F1FB\U0001F1F2\U0001F1FD.\n\n###### \U0001F3AF ¿Mi objetivo? Liderar operaciones que retengan y atraigan nuevos clientes en industrias Tech.\n"
     actions:
       - label: ¡Hablemos!
         url: /contact
