@@ -180,9 +180,9 @@ sections:
           PMP, Agile, Lean, Design Thinking, Canva Model y Six Sigma.
       - title: Trabajo en Equipo x Liderazgo
         content: >
-          No importa la empresa, las operaciones son equipos de personas
-          interactuando con otras personas. Por eso lidero equipos de alto
-          rendimiento basado en:
+          Las operaciones siempre son equipos de personas interactuando con
+          otras personas. Por eso construyo lidero equipos de alto rendimiento
+          basado en:
 
 
           *   *Mentoria*: Formo los líderes del mañana trazando y acompañando
