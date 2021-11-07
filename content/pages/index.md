@@ -133,10 +133,6 @@ sections:
           *   *Desde las tendencias: Investigo en sitios especializados* para
           encontrar cambios en el consumo, nuevos *drivers* y mercados
           potenciales.
-
-
-          La única operación que está en constante mejora es aquella que siempre
-          está buscando soluciones a los problemas de sus clientes
       - content: >
           La información representa lo que les duele a los consumidores, la
           innovación crea las soluciones a esos dolores. Por eso es que:
