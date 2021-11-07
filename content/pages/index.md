@@ -221,10 +221,10 @@ sections:
           Un equipo de alto rendimiento es capaz de tomar decisiones en tiempo
           real como lo haría el CEO de la empresa.
     subtitle: >-
-      Me enfoco en los consumidores, no en los competidores. Y ¿Ellos qué
-      buscan? Simplemente soluciones a sus problemas más dolorosos. Mi
-      estrategia tiene 4 pilares fundamentales que brindan dichas soluciones
-      siendo efectivas, atractivas y enganchadoras.
+      Me enfoco en los consumidores, no en los competidores. Los consumidores
+      buscan soluciones a sus problemas más críticos. Mi estrategia tiene 4
+      pilares fundamentales que brindan soluciones efectivas, atractivas y
+      enganchadoras para los consumidores.
   - type: section_portfolio
     layout_style: mosaic
     title: Casos de éxito
