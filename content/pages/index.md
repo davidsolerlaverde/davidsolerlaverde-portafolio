@@ -18,9 +18,9 @@ sections:
       publicidad boca a boca (WOM).
     type: section_content
     subtitle: >-
-      No sólo es un cliente menos, es dinero y negativaesfuerzo desperdiciados
-      en su adquisición (CAC), recompras perdidas (LTV) y clientes potenciales
-      que huyen por sus malos reviews y 
+      No sólo es un cliente menos, es dinero y esfuerzo desperdiciados en su
+      adquisición (CAC), recompras perdidas (LTV) y clientes potenciales que
+      huyen por sus malos reviews y 
   - section_id: hero
     type: section_hero
     title: ¡Hola! Soy David Soler Laverde.
