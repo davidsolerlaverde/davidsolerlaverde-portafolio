@@ -169,7 +169,7 @@ sections:
 
           *   *Tecnología:* Innovo a través de proyectos de transformación
           digital optimizando procesos, decreciendo el costo/beneficio y
-          soportando un crecimiento exponencial.
+          aportando a un crecimiento exponencial.
 
 
           <!---->
