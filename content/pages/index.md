@@ -66,8 +66,8 @@ sections:
           Inteligentes)
 
 
-          *   *Clientes*: 3 proyectos para Guyanese Ministry of Public Works
-          (MOPW), CAF y DVDH
+          *   *Clientes impactados*: 3 proyectos para Guyanese Ministry of
+          Public Works (MOPW), CAF y DVDH
 
 
           *   *Equipo*: 4 personas
