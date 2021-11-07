@@ -2,8 +2,7 @@
 title: Home
 hide_title: true
 sections:
-  - title: asdfasdf
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
