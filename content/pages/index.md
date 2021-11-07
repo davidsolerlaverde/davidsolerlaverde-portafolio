@@ -21,6 +21,7 @@ sections:
       No sólo es un cliente menos, es dinero y esfuerzo desperdiciados en su
       adquisición (CAC), recompras perdidas (LTV) y clientes potenciales que
       huyen por sus malos reviews y negativa publicidad boca a boca (WOM)
+    title: El 80% de los clientes se pierden por un mal servicio.
   - section_id: hero
     type: section_hero
     title: ¡Hola! Soy David Soler Laverde.
