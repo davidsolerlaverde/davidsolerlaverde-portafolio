@@ -2,6 +2,22 @@
 title: Home
 hide_title: true
 sections:
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: section_content
   - section_id: hero
     type: section_hero
     title: ¡Hola! Soy David Soler Laverde.
@@ -225,22 +241,6 @@ sections:
     projects_number: 2
     view_all_label: View All
     view_all_url: portfolio
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: section_content
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
