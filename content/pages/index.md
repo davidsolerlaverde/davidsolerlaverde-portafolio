@@ -2,7 +2,7 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: Problemas
+  - section_id: El 80% de los clientes se pierden por un mal servicio.
     content: >
       Un estudio reciente concluyó que el **80% de los clientes se pierden por
       un mal servicio.** No sólo es un cliente menos, es:
