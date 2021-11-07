@@ -11,7 +11,7 @@ sections:
     title: El 80% de los clientes se pierden por un mal servicio.
   - section_id: hero
     type: section_hero
-    title: ¡Hola! Soy David Soler Laverde.
+    title: Soy David Soler Laverde.
     content: "###### Tengo **8+** años de experiencia liderando operaciones que den un excelente servicio, solucionen problemas y cumplan con las expectativas del cliente.\n\n###### He impactado **15+** millones de consumidores trabajando en Operaciones y Consultoría como COO, Consultor e Intraemprendor en Latinoamérica \U0001F1E8\U0001F1F4\U0001F1FA\U0001F1FE\U0001F1E6\U0001F1F7\U0001F1EC\U0001F1FE\U0001F1F5\U0001F1EA\U0001F1EA\U0001F1E8\U0001F1F8\U0001F1FB\U0001F1F2\U0001F1FD.\n\n###### \U0001F3AF ¿Mi objetivo? Liderar operaciones escalables que retengan y atraigan clientes en industrias Tech.\n"
     actions:
       - label: ¡Hablemos!
