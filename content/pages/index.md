@@ -3,19 +3,6 @@ title: Home
 hide_title: true
 sections:
   - section_id: El 80% de los clientes se pierden por un mal servicio.
-    content: >
-      Un estudio reciente concluyó que el **80% de los clientes se pierden por
-      un mal servicio.** No sólo es un cliente menos, es:
-
-
-      *   Dinero y esfuerzo desperdiciados en su adquisición (CAC).
-
-
-      *   Recompras perdidas (LTV)
-
-
-      *   Clientes potenciales que huyen por sus malos reviews y su negativa
-      publicidad boca a boca (WOM).
     type: section_content
     subtitle: >-
       No sólo es un cliente menos, es dinero y esfuerzo desperdiciados en su
