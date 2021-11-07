@@ -198,10 +198,6 @@ sections:
           *   *Comunicación*: Creo sistemas de comunicación que transmiten
           claridad y objetividad evitando reprocesos y haciendo más eficientes a
           las operaciones.
-
-
-          Un equipo de alto rendimiento es capaz de tomar decisiones en tiempo
-          real como lo haría el CEO de la empresa.
     subtitle: >-
       Me enfoco en los consumidores, no en los competidores. Los consumidores
       buscan soluciones a sus problemas más críticos. Mi estrategia tiene 4
