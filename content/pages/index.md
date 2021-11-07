@@ -178,10 +178,6 @@ sections:
           *   *Metodologías*: Operaciones exitosas son 20% planeación, 80%
           ejecución pero 100% metódicas. Por eso implemento metodologías como
           PMP, Agile, Lean, Design Thinking, Canva Model y Six Sigma.
-
-
-          Un consumidor feliz y leal traerá a 4 clientes más. Un consumidor
-          insatisfecho, espantará a 8 clientes más.
       - title: Trabajo en Equipo x Liderazgo
         content: >
           No importa si es la NASA o un negocio local, las operaciones son
