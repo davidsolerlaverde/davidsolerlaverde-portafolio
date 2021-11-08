@@ -1,7 +1,7 @@
 ---
 title: Casos de Éxito
 subtitle: >-
-  10 habilidades implementadas resumidas a través de la metodología STAR) que
+  10 habilidades implementadas –y resumidas a través de la metodología STAR– que
   lograron operaciones eficientes, rentables, rápidamente escalables y enfocadas
   en una experiencia del cliente inolvidable.
 layout_style: tiles
