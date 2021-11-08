@@ -121,8 +121,9 @@ sections:
           Los problemas de los clientes se tienen que buscar, leer y descifrar
 
 
-          *   *Desde los datos*: Capturo y analizo datos para encontrar
-          preferencias, comportamientos y problemas.
+          *   *Desde los datos*: Capturo y analizo datos con Excel para
+          encontrar preferencias, comportamientos y problemas. Para mejorar esta
+          habilidad, estoy aprendiendo Python, SQL y PowerBI
 
 
           *   *Desde sus perspectivas*: Voy al terreno para hablar con los
