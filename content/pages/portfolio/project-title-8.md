@@ -72,3 +72,5 @@ thumb_image: /images/PM.jpeg
     3.  El proyecto fue aprobado por el MOPW y usado como input por el contratista en la etapa de factibilidad.
 
     4.  Se generó un know-how interno para el desarrollo de proyectos aeronáuticos siguiendo la metodología del Project Management Institute (PMI)
+
+> Project management can be defined as a way of developing structure in a complex project, where the independent variables of time, cost, resources and human behavior come together. – Rory Burke
