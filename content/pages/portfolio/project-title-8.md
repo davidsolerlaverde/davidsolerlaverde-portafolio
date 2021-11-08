@@ -10,7 +10,7 @@ seo:
   robots: []
   extra: []
 layout: project
-thumb_image: /images/Codigo QR.png
+thumb_image: /images/PM.jpeg
 ---
 ## Lorem ipsum
 
