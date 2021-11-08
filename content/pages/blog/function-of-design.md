@@ -1,6 +1,5 @@
 ---
 title: Estoy trabajando para brindar contenido que generé valor a los negocios
-subtitle: 'A interesting tale about function of design '
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
