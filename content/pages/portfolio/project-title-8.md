@@ -1,5 +1,5 @@
 ---
-title: Gerencia de Proyectos
+title: Gerencia de Proyectos | GSD+
 subtitle: >-
   Cree un modelo de pre-factibilidad operacional, financiero y técnico para la
   construcción de un aeropuerto internacional Tipo-B en Lethem –Guyana– por un
