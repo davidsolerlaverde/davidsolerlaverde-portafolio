@@ -1,6 +1,6 @@
 ---
 title: Gerencia de Proyectos
-subtitle: 'Diseñe operacional,'
+subtitle: 'Cree un modelo operacional, financiero y técnico'
 date: '2021-11-05'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
