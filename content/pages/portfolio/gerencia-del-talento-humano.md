@@ -11,7 +11,6 @@ seo:
   extra: []
 layout: project
 thumb_image: /images/CX-c4c80a0e.jpeg
-image: /images/VH-3814f214.png
 ---
 ## Lorem ipsum
 
