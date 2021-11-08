@@ -123,12 +123,12 @@ sections:
 
           *   *Desde los datos*: Capturo y analizo datos con Excel para
           encontrar preferencias, comportamientos y problemas. Para mejorar esta
-          habilidad, estoy aprendiendo Python, SQL y PowerBI
+          habilidad, estoy aprendiendo Python, SQL y PowerBI.
 
 
-          *   *Desde sus perspectivas*: Voy al terreno para hablar con los
-          consumidores y conocer sus expectativas, entender sus decisiones y
-          comprender sus emociones.
+          *   *Desde sus perspectivas*: Construyo encuestas y entrevistas y las
+          implemento en el terreno para hablar con los consumidores y conocer
+          sus expectativas, entender sus decisiones y comprender sus emociones.
 
 
           *   *Desde las tendencias*: Investigo en sitios especializados para
