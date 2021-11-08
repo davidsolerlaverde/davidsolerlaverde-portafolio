@@ -169,8 +169,9 @@ sections:
 
 
           *   *Tecnología:* Innovo a través de proyectos de transformación
-          digital optimizando procesos, decreciendo el costo/beneficio y
-          aportando a un crecimiento exponencial.
+          digital con No-Code (Notion, Zapier, AirTable) o Code (Python, VBA)
+          optimizando procesos, decreciendo el costo/beneficio y aportando a un
+          crecimiento exponencial.
 
 
           <!---->
