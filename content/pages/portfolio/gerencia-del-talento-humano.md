@@ -10,6 +10,7 @@ seo:
   robots: []
   extra: []
 layout: project
+thumb_image: /images/Background.jpeg
 ---
 ## Lorem ipsum
 
