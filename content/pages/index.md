@@ -151,7 +151,8 @@ sections:
 
           *   *Los consumidores evolucionan, las empresas deben hacerlo más
           rápido*: Genero nuevos productos y/o servicios que mejoran la
-          experiencia del cliente y el *Lifetime Value* (LTV) de la compañía.
+          experiencia del cliente y el *Lifetime Value* (LTV) de la compañía
+          mediante Canva Model y Design Thinking.
         title: Customer Experience = Excelencia
       - title: Eficiencia > Caos
         content: >
