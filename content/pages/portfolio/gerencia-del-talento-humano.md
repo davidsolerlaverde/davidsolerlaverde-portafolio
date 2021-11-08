@@ -1,7 +1,7 @@
 ---
 title: Optimización de la Experiencia del Ciente
 subtitle: lorem-ipsum
-date: '2021-11-01'
+date: '2021-02-01'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
