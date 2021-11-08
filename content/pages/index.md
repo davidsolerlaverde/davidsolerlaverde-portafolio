@@ -131,9 +131,9 @@ sections:
           sus expectativas, entender sus decisiones y comprender sus emociones.
 
 
-          *   *Desde las tendencias*: Investigo en sitios especializados para
-          encontrar cambios en el consumo, nuevos drivers y mercados
-          potenciales.
+          *   *Desde las tendencias*: Investigo en sitios especializados y
+          participo en eventos para encontrar cambios en el consumo, nuevos
+          drivers y mercados potenciales.
       - content: >
           "Si no aprecias a tus clientes, alguien más lo hará" (JL). Por eso es
           que:
