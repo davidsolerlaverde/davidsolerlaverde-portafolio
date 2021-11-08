@@ -1,6 +1,6 @@
 ---
 title: Optimización de la Experiencia del Ciente
-subtitle: lorem-ipsum
+subtitle: 'Logré '
 date: '2020-02-01'
 seo:
   title: ''
