@@ -1,5 +1,5 @@
 ---
-title: Análisis de Datos
+title: Análisis de Datos | Decisive Point
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: /images/DA.jpeg
