@@ -77,7 +77,7 @@ sections:
           Public Works (MOPW), CAF y DVDH
 
 
-          *   *Equipo*: 4 personas
+          *   *Equipo*: 4 personas indirectas
         actions: []
         image: /images/GSDplus.png
       - title: Avianca
