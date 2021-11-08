@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Optimización de la Experiencia del Ciente
 subtitle: lorem-ipsum
 date: '2021-11-08'
 thumb_image_alt: lorem-ipsum
