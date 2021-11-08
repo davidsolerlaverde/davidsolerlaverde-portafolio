@@ -2,7 +2,7 @@
 title: Gerencia del Talento Humano
 subtitle: Optional Project Subtitle
 date: '2018-01-15'
-thumb_image: /images/Coming Soon Products Pastel Brown Instagram Post (3).png
+thumb_image: /images/Coming Soon Products Pastel Brown Instagram Post (4).png
 thumb_image_alt: A black headphones on a yeallow background
 image: images/7.jpg
 image_alt: A black headphones on a yeallow background
