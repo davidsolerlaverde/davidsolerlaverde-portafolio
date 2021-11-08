@@ -1,5 +1,5 @@
 ---
-title: 'Aperturas de Negocios '
+title: Aperturas de Negocios
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
 thumb_image: images/3_thumb.jpg
