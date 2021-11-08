@@ -1,9 +1,9 @@
 ---
 title: Casos de Éxito
 subtitle: >-
-  10 habilidades, implementadas en múltiples proyectos, para lograr operaciones
-  eficientes, rentables, rápidamente escalables y enfocadas en una experiencia
-  del cliente inolvidable.
+  10 habilidades en acción, a través de la metodología STAR, que lograrón
+  operaciones eficientes, rentables, rápidamente escalables y enfocadas en una
+  experiencia del cliente inolvidable.
 layout_style: tiles
 seo:
   title: Portfolio
