@@ -1,5 +1,5 @@
 ---
-title: Transformación Digital
+title: Transformación Digital | Viajero Hostels
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: /images/DT.jpeg
