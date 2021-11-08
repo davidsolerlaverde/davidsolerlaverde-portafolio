@@ -14,54 +14,48 @@ subtitle: >-
   Aumenté el % del OTP (On-Time Performance) y el % de conexiones exitosas
   mejorando el tiempo de abordaje en posiciones remotas en un 28%
 ---
-*   ***S**ituación*: Viajero Hostels quería llegar a una calificación global promedio en OTAs de 9.0, para mediados del 2019 la tenía en 8.7.
+*   ***S**ituación*: Avianca estaba presentando un peor rendimiento en el OTP de los vuelos que eran abordados por buses –vuelos remotos– vs los abordados directamente. Esta demora estaba generando demoras en los vuelos de retornos y en aquellos vuelos que tenían un alto % de conexiones de los vuelos demorados. 
 
 <!---->
 
 *   ***T**areas*:
 
-    1.  Evaluar internamente la satisfacción del cliente para encontrar oportunidades de mejora
+    1.  Investigar las principales causas que generaban demoras relevantes en los vuelos remotos.
 
-    2.  Hallar los principales problemas que estaban afectando la experiencia del cliente.
+    2.  Cuantificar el impacto que los vuelos estaban generando sobre la experiencia del cliente, la red de vuelos y los KPIs. 
 
-    3.  Generar planes de acción con áreas como Mercadeo, Infraestructura, Finanzas, u otras con el fin de solventar los problemas.
+    3.  Establecer un grupo de soluciones que mejorasen el panorama original y cumplieran con un bajo ratio costo/beneficio.
 
-    4.  Implementar los planes de acción con un presupuesto que no requiriese inversión adicional.
+    4.  Implementar la solución óptima y evaluar el impacto vs el escenario original.
 
-    5.  Hacer seguimiento a los nuevos resultados para medir el impacto de los planes de acción.
+    5.  Documentar el proceso para establecer una metodología de solución de problemas operacionales.
 
 <!---->
 
 *   ***A**cciones*
 
-    1.  Crear una encuesta para que fuese realizada en 2 minutos en diferentes puntos de experiencia para recopilar datos en todos los hostels, restaurantes y bares. La tabulación se hacía desde Bogotá para evaluar preferencias y necesidades transversales.
+    1.  Conocer la funcionalidad del sistema, los principales stakeholders y procesos claves (Diagrama de Gantt) junto con las restricciones internas y externas para delimitar el campo de acción de las posibles soluciones.
 
-    2.  Segmentar la información –con estadística descriptiva– entre problemas y deseos. Posteriormente caracterizarlos en orden de prioridad, costos, dedicación por parte de cada equipo e impacto en la experiencia total.
+    2.  Realizar tomas de tiempos y análisis en campo a un grupo de vuelos que caractericen completamente la operación aeroportuaria, a través del establecimiento de muestro poblacional.
 
-    3.  Socializar los resultados con los Gerentes Generales para empezar a trazar planes de acción ajustándolos por presupuesto e inmediatez en el impacto.
+    3.  Comparar con todo el equipo de trabajo, los SOPs vs el proceso real para las causas reales de demora y cuantificar el impacto sobre los KPIs operacionales.
 
-    4.  Implementar aquellas tareas que estaban bajo control del COO y con impacto inmediato, mediante la metodología Lean Startup, para testear rápidamente la respuesta de los consumidores, aprender, mejorarlas y trasladar dichas soluciones a otras sedes.
+    4.  Generar un modelo de simulación continua que imite el proceso seleccionado y evaluar su efectividad por inferencia estadística.
 
-    5.  Ajustar las tareas restantes con las demás áreas de la compañía para asignar personal, equipos y tareas sin que genere inconvenientes en el pipeline de proyectos que cada una de ellas viene ejecutando.
+    5.  Establecer y simular un grupo de soluciones que mejorarán el estado actual impactando las causas raíz de las demoras, tuvieran una implementación de 3 meses y no generarán costos mayores a COP10MM.
 
-    6.  Incluir la calificación en OTAs a los formatos de evaluación y bonificación para crear cohesión y enfoque total hacía los resultados.
+    6.  Elegir la solución de mayor impacto e implementarla en terreno haciendo una nueva toma de tiempos.
 
-    7.  Medir el impacto de las decisiones tomadas mediante una supervisión periódica del NPS, asimismo ingresando los nuevos insights y clasificándolo entre los diferentes planes de acción.
+    7.  Comparar y concluir el impacto de la solución implementada sobre el abordaje de los vuelos demorados.
 
-    8.  Documentar las soluciones implementadas y caracterizar su inversión e impacto con el fin de extrapolarlas a otras operaciones y/o ingresándolas en los SOPs de la compañía.
+    8.  Documentar el proceso mediante mi tesis de grado.
 
 <!---->
 
 *   ***R**esultados*:
 
-    1.  Incrementamos el NPS en un 32% logrando un incremento global promedio de 0.3.
+    1.  Incrementamos el tiempo 
 
-    2.  Sostuvimos el % de EBITDA presupuestado.
-
-    3.  Alineamos evaluaciones de desempeño mensuales y semestrales con las necesidades estratégicas de la compañía
-
-    4.  Establecimos un marco para la toma autónoma de decisiones por parte de los Gerentes Generales.
-
-    5.  Impactamos positivamente la recompra mediante un aumento del % de reviews positivos en OTAs e interacción de los huéspedes por Redes Sociales.
+    2.
 
 > One thing is sure. We have to do something. We have to do the best we know how at the moment . . . If it doesn't turn out right, we can modify it as we go along - Franklin. D. Roosevelt.
