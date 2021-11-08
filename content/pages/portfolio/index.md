@@ -1,7 +1,7 @@
 ---
 title: Casos de Éxito
 subtitle: >-
-  10 habilidades implementadas exitosamente para lograr operaciones eficientes,
+  10 habilidades implementadas previamente para lograr operaciones eficientes,
   rentables, rápidamente escalables y enfocadas en una experiencia del cliente
   memorable.
 layout_style: tiles
