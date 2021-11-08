@@ -1,7 +1,7 @@
 ---
 title: Casos de Éxito
 subtitle: >-
-  10 casos de éxito que caracterizan 10 habilidades para lograr operaciones
+  10 casos exitosos que caracterizan 10 habilidades para lograr operaciones
   eficientes, enfocadas en la experiencia del cliente, rápidamente escalables y
   rentables.
 layout_style: tiles
