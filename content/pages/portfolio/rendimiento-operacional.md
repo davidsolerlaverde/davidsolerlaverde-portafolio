@@ -10,7 +10,7 @@ seo:
   robots: []
   extra: []
 layout: project
-thumb_image: /images/Iso_Fondo Blanco.png
+thumb_image: /images/Coming Soon Products Pastel Brown Instagram Post.png
 ---
 ## Lorem ipsum
 
