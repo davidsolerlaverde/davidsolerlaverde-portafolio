@@ -1,6 +1,6 @@
 ---
 title: Estoy trabajando para brindar contenido que generé valor a los negocios
-date: '2018-01-01'
+date: '2018-01-11'
 thumb_image: /images/Coming Soon Products Pastel Brown Instagram Post (4)-302ad25e.png
 thumb_image_alt: Library shelves
 image: /images/Coming Soon Products Pastel Brown Instagram Post (4)-871c35e8.png
