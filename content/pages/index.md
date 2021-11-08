@@ -132,7 +132,7 @@ sections:
 
           *   *Desde las tendencias: Investigo en sitios especializados para
           encontrar cambios en el consumo, nuevos drivers y mercados
-          potenciales.*
+          potenciales.
       - content: >
           "Si no aprecias a tus clientes, alguien más lo hará" (JL). Por eso es
           que:
