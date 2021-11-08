@@ -14,21 +14,29 @@ seo:
 layout: project
 thumb_image: /images/PM.jpeg
 ---
-*   ***S**ituación*: Viajero Hostels quería llegar a una calificación global promedio en OTAs de 9.0, para mediados del 2019 la tenía en 8.7.\<!---->\<!---->\<!---->
+*   ***S**ituación*: El Ministerio de Obras Públicas (MOPW por sus siglas en inglés) quería aumentar la categoría del aeródromo de Lethem a un aeropuerto y conectar la ciudad con Georgetown, su capital.\<!---->\<!---->\<!---->
 
 <!---->
 
 *   ***T**areas*:
 
-    1.  Evaluar internamente la satisfacción del cliente para encontrar oportunidades de mejora
+    1.  Conocer la operación aérea de Lethem, sus principales stakeholders, números y restricciones.
 
-    2.  Hallar los principales problemas que estaban afectando la experiencia del cliente.
+    2.  Pronosticar la demanda futura del aeropuerto con base en el crecimiento económico del país y la región, flujos de personas y crecimiento de los socios comerciales.
 
-    3.  Generar planes de acción con áreas como Mercadeo, Infraestructura, Finanzas, u otras con el fin de solventar los problemas.
+    3.  Caracterizar la operación actual y compararla según estándares internacionales (OACI y FAA) para encontrar fallas importantes que deben ser  solucionadas.
 
-    4.  Implementar los planes de acción con un presupuesto que no requiriese inversión adicional.
+    4.  Realizar el diseño técnico de un aeropuerto internacional de categoría B que cumpla con operación de pasajeros y carga, estándares internacionales y que soporte la demanda de los siguientes 15 años. 
 
-    5.  Hacer seguimiento a los nuevos resultados para medir el impacto de los planes de acción.
+    5.  Crear un modelo financiero que establezca el valor del CAPEX y OPEX para realizar la evaluación financiera del proyecto a 5 años.
+
+    6.  Construir el marco operativo-jurídico que permita operarlo mediante una Alianza Público-Privada.
+
+    7.
+
+    8.  Presentar el proyecto a los principales stakeholders para conseguir la aprobación de la Fase II y III del proyecto.
+
+
 
 <!---->
 
