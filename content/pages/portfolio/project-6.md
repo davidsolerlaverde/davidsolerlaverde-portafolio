@@ -1,5 +1,5 @@
 ---
-title: 'Creación y ventas de productos '
+title: Creación y ventas de productos
 subtitle: Optional Project Subtitle
 date: '2018-12-18'
 thumb_image: images/6_thumb.jpg
