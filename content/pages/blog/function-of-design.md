@@ -6,7 +6,7 @@ excerpt: >-
 date: '2018-01-15'
 thumb_image: images/13_thumb.jpg
 thumb_image_alt: Library shelves
-image: images/13.jpg
+image: /images/Coming Soon Products Pastel Brown Instagram Post (4)-871c35e8.png
 image_alt: Library shelves
 seo:
   title: The function of design is letting design function
