@@ -14,7 +14,7 @@ seo:
 layout: project
 thumb_image: /images/PM.jpeg
 ---
-*   ***S**ituación*: El Ministerio de Obras Públicas (MOPW por sus siglas en inglés) quería aumentar la categoría del aeródromo de Lethem a un aeropuerto y conectar la ciudad con Georgetown, su capital.\<!---->\<!---->\<!---->
+*   ***S**ituación*: El Ministerio de Obras Públicas (MOPW por sus siglas en inglés) quería aumentar la categoría del aeródromo de Lethem a un aeropuerto y conectar la ciudad con Georgetown, su capital.
 
 <!---->
 
@@ -26,7 +26,7 @@ thumb_image: /images/PM.jpeg
 
     3.  Caracterizar la operación actual y compararla según estándares internacionales (OACI y FAA) para encontrar fallas importantes que deben ser  solucionadas.
 
-    4.  Realizar el diseño técnico de un aeropuerto internacional de categoría B que cumpla con operación de pasajeros y carga, estándares internacionales y que soporte la demanda de los siguientes 15 años. 
+    4.  Realizar el diseño técnico de un aeropuerto internacional de categoría B que cumpla con operación de pasajeros y carga, estándares internacionales y que soporte la demanda de los siguientes 15 años.
 
     5.  Crear un modelo financiero que establezca el valor del CAPEX y OPEX para realizar la evaluación financiera del proyecto a 5 años.
 
@@ -35,8 +35,6 @@ thumb_image: /images/PM.jpeg
     7.
 
     8.  Presentar el proyecto a los principales stakeholders para conseguir la aprobación de la Fase II y III del proyecto.
-
-
 
 <!---->
 
