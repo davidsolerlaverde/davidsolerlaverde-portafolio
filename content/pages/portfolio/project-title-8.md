@@ -1,5 +1,5 @@
 ---
-title: Optimización de la Experiencia del Cliente
+title: Gerencia de Proyectos
 subtitle: lorem-ipsum
 date: '2021-11-05'
 thumb_image_alt: lorem-ipsum
