@@ -4,7 +4,7 @@ excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
 date: '2018-01-15'
-thumb_image: images/13_thumb.jpg
+thumb_image: /images/Coming Soon Products Pastel Brown Instagram Post (4)-302ad25e.png
 thumb_image_alt: Library shelves
 image: /images/Coming Soon Products Pastel Brown Instagram Post (4)-871c35e8.png
 image_alt: Library shelves
