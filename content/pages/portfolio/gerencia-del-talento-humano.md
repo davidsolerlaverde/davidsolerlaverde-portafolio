@@ -8,6 +8,7 @@ seo:
   extra: []
 layout: project
 thumb_image: /images/CX-c4c80a0e.jpeg
+subtitle: Incrementé en 32% la
 ---
 ## Lorem ipsum
 
