@@ -14,7 +14,9 @@ subtitle: >-
   Aumenté el % del OTP (On-Time Performance) y el % de conexiones exitosas
   mejorando el tiempo de abordaje en posiciones remotas en un 28%
 ---
-***S**ituación*: Viajero Hostels quería llegar a una calificación global promedio en OTAs de 9.0, para mediados del 2019 la tenía en 8.7.
+*   ***S**ituación*: Viajero Hostels quería llegar a una calificación global promedio en OTAs de 9.0, para mediados del 2019 la tenía en 8.7.
+
+<!---->
 
 *   ***T**areas*:
 
