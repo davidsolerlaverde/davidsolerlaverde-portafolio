@@ -10,7 +10,9 @@ seo:
   extra: []
 layout: project
 thumb_image: /images/PS.jpeg
-subtitle: Aumenté el % del OTA
+subtitle: >-
+  Aumenté el % del OTA (On-Time Arrival) y el % de conexiones éxitosas a través
+  de un incremento en
 ---
 *   ***S**ituación*: Viajero Hostels tenía una calificación global promedio en OTAs de 8.7 pero se necesitaba llevarla por lo menos a 9.0.
 
