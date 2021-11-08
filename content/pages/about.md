@@ -1,6 +1,6 @@
 ---
 title: Un poco sobre David Soler Laverde
-image: images/about.jpg
+image: /images/Coming Soon Products Pastel Brown Instagram Post (4)-faddde51.png
 image_alt: A man taking a picture
 seo:
   title: About Us
