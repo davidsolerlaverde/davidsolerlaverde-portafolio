@@ -121,8 +121,8 @@ sections:
           Los problemas de los clientes se tienen que buscar, leer y descifrar
 
 
-          *   *Desde los datos: Capturo y analizo datos para encontrar*
-          preferencias, comportamientos y problemas.
+          *   *Desde los datos: Capturo y analizo datos para encontrar
+          preferencias, comportamientos y problemas.*
 
 
           *   *Desde sus perspectivas*: Voy al terreno para hablar con los
@@ -130,9 +130,9 @@ sections:
           comprender sus emociones.
 
 
-          *   *Desde las tendencias: Investigo en sitios especializados* para
-          encontrar cambios en el consumo, nuevos *drivers* y mercados
-          potenciales.
+          *   *Desde las tendencias: Investigo en sitios especializados para
+          encontrar cambios en el consumo, nuevos drivers y mercados
+          potenciales.*
       - content: >
           "Si no aprecias a tus clientes, alguien más lo hará" (JL). Por eso es
           que:
