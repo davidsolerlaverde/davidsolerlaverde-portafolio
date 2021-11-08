@@ -14,7 +14,7 @@ subtitle: >-
   Aumenté el % del OTP (On-Time Performance) y el % de conexiones exitosas
   mejorando el tiempo de abordaje en posiciones remotas en un 28%
 ---
-*   ***S**ituación*: Avianca estaba presentando un peor rendimiento en el OTP de los vuelos que eran abordados por buses –vuelos remotos– vs los abordados directamente. Esta demora estaba generando demoras en los vuelos de retornos y en aquellos vuelos que tenían un alto % de conexiones de los vuelos demorados. 
+*   ***S**ituación*: Avianca estaba presentando un peor rendimiento en el OTP de los vuelos que eran abordados por buses –vuelos remotos– vs los abordados directamente. Esta demora estaba generando demoras en los vuelos de retornos y en aquellos vuelos que tenían un alto % de conexiones de los vuelos demorados.
 
 <!---->
 
@@ -22,7 +22,7 @@ subtitle: >-
 
     1.  Investigar las principales causas que generaban demoras relevantes en los vuelos remotos.
 
-    2.  Cuantificar el impacto que los vuelos estaban generando sobre la experiencia del cliente, la red de vuelos y los KPIs. 
+    2.  Cuantificar el impacto que los vuelos estaban generando sobre la experiencia del cliente, la red de vuelos y los KPIs.
 
     3.  Establecer un grupo de soluciones que mejorasen el panorama original y cumplieran con un bajo ratio costo/beneficio.
 
@@ -54,8 +54,14 @@ subtitle: >-
 
 *   ***R**esultados*:
 
-    1.  Incrementamos el tiempo 
+    1.  Hallamos diferencias relevantes entre los SOPs y la ejecución real del abordaje de vuelos remotos dado que se aplicaba el mismo Gantt que los vuelos en contacto. 
 
-    2.
+    2.  Incrementamos la eficiencia del abordaje en un 28% creando una variable del Gantt para vuelos remotos y aumentando el número de tareas simultáneas.
+
+    3.  Se realizó una redistribución de las salas de abordaje para minimizar los movimientos y tiempos de desplazamiento de pasajeros y buses hacía el avión.
+
+    4.  Se establecieron árboles de decisión para el manejo de vuelos demorados y así cortar el efecto en red y decrecer el riesgo de la cancelación de vuelos.
+
+    5.  Hicimos una inversión < COP10MM para mejorar la comunicación visual con el pasajero y así decrecer el % de pasajeros que abordaban un vuelo equivocado.
 
 > One thing is sure. We have to do something. We have to do the best we know how at the moment . . . If it doesn't turn out right, we can modify it as we go along - Franklin. D. Roosevelt.
