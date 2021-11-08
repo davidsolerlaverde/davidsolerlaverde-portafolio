@@ -12,10 +12,10 @@ subtitle: >-
   Incrementé en 32% el NPS (Net Promotion Score) global de Hostales,
   Restaurantes y Bares.
 ---
-*   *Situación*: Viajero Hostels tenía una calificación global promedio en OTAs de 8.7 pero se necesitaba llevarla por lo menos a 9.0.
+*   ***S**ituación*: Viajero Hostels tenía una calificación global promedio en OTAs de 8.7 pero se necesitaba llevarla por lo menos a 9.0.
 
-*   *Tareas*:
+*   ***T**areas*:
 
-*   *Acciones*:
+*   ***A**cciones*:
 
-*   *Resultados*: Incrementamos el NPS en un 32%
+*   ***R**esultados*: Incrementamos el NPS en un 32%
