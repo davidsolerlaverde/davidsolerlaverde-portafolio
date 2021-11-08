@@ -1,6 +1,8 @@
 ---
 title: Blog
-subtitle: 'News, tips and highlights'
+subtitle: >-
+  Operaciones, proyectos, emprendimientos y como cambiar el mundo desde los
+  negocios
 hide_title: false
 col_number: three
 seo:
