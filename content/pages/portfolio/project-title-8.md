@@ -70,3 +70,5 @@ thumb_image: /images/PM.jpeg
     2.  Se consiguió una propuesta de financiamiento por un valor de USD45MM con el Caribbean Development Bank (CDB)
 
     3.  El proyecto fue aprobado por el MOPW y usado como input por el contratista en la etapa de factibilidad.
+
+    4.  Se generó un know-how interno para el desarrollo de proyectos aeronáuticos siguiendo la metodología del Project Management Institute (PMI)
