@@ -12,9 +12,10 @@ subtitle: >-
   Incrementé en 32% el NPS (Net Promotion Score) global de Hostales,
   Restaurantes y Bares.
 ---
-## Lorem ipsum
+Situación:
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Tareas:
 
-- Lorem ipsum
-- dolor sit amet
+Acciones:
+
+Resultados: Incrementamos el NPS en un 32%
