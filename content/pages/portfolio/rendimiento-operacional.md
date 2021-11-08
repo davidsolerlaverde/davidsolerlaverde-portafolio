@@ -10,6 +10,7 @@ seo:
   extra: []
 layout: project
 thumb_image: /images/PS.jpeg
+subtitle: 'Incrementé el '
 ---
 *   ***S**ituación*: Viajero Hostels tenía una calificación global promedio en OTAs de 8.7 pero se necesitaba llevarla por lo menos a 9.0.
 
