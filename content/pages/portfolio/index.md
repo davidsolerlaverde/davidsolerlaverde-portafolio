@@ -1,6 +1,6 @@
 ---
 title: Casos de Éxito
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: 10 habilidades que
 layout_style: tiles
 seo:
   title: Portfolio
