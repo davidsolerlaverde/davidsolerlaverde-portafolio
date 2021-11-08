@@ -1,5 +1,5 @@
 ---
-title: Manejo de Crisis Empresariales
+title: Gerencia del Talento Humano
 subtitle: Optional Project Subtitle
 date: '2018-01-15'
 thumb_image: images/7_thumb.jpg
