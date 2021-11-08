@@ -1,6 +1,5 @@
 ---
 title: Optimización de la Experiencia del Ciente
-subtitle: 'Logré '
 date: '2020-02-01'
 seo:
   title: ''
