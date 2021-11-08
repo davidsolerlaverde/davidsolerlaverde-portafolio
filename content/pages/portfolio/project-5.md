@@ -2,7 +2,7 @@
 title: Manejo de crisis empresariales
 subtitle: Optional Project Subtitle
 date: '2019-01-05'
-thumb_image: /images/Coming Soon Products Pastel Brown Instagram Post (3)-9cccf993.png
+thumb_image: /images/Coming Soon Products Pastel Brown Instagram Post (4).png
 thumb_image_alt: A white gamepad on a green background
 image: images/5.jpg
 image_alt: A white gamepad on a green background
