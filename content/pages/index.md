@@ -130,7 +130,7 @@ sections:
           comprender sus emociones.
 
 
-          *   *Desde las tendencias: Investigo en sitios especializados para
+          *   *Desde las tendencias*: Investigo en sitios especializados para
           encontrar cambios en el consumo, nuevos drivers y mercados
           potenciales.
       - content: >
