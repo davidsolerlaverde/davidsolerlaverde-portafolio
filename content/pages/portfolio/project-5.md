@@ -1,5 +1,5 @@
 ---
-title: Apertura de Ne
+title: 'Apertura de '
 subtitle: Optional Project Subtitle
 date: '2019-01-05'
 thumb_image: images/5_thumb.jpg
