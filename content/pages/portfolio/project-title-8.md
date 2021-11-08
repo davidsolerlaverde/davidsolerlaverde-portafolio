@@ -1,6 +1,8 @@
 ---
 title: Gerencia de Proyectos
-subtitle: 'Cree un modelo operacional, financiero y técnico'
+subtitle: >-
+  Cree un modelo operacional, financiero y técnico para la construcción de un
+  aeropuerto internacional Tipo-B
 date: '2021-11-05'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
