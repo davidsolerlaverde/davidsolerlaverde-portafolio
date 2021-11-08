@@ -14,7 +14,7 @@ subtitle: >-
   Aumenté el % del OTA (On-Time Arrival) y el % de conexiones exitosas mejorando
   el tiempo de abordaje en posiciones remotas en un 28%
 ---
-*   ***S**ituación*: Viajero Hostels tenía una calificación global promedio en OTAs de 8.7 pero se necesitaba llevarla por lo menos a 9.0.
+*   ***S**ituación*: Avianca estaba presentando demoras en la llegada de vuelos que eran embarcados por buses creando demorando los vuelos de retorno y un alto % de conexiones hacía otros vuelos internacionales, creando un nocivo efecto en red. 
 
 *   ***T**areas*:
 
