@@ -122,7 +122,7 @@ sections:
 
 
           *   *Desde los datos*: Capturo y analizo datos para encontrar
-          preferencias, comportamientos y problemas.*
+          preferencias, comportamientos y problemas.
 
 
           *   *Desde sus perspectivas*: Voy al terreno para hablar con los
