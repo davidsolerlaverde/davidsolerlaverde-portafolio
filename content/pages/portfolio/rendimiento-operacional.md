@@ -1,5 +1,7 @@
 ---
-title: Solución de problemas
+title: >-
+  Solución de problemas | Mejora del tiempo de abordaje en posiciones remotas |
+  Avianca
 date: '2021-11-08'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
