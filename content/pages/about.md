@@ -1,5 +1,5 @@
 ---
-title: 'Un poco sobre '
+title: Un poco sobre David Soler Laverde
 subtitle: This is a short page about us and our work.
 image: images/about.jpg
 image_alt: A man taking a picture
