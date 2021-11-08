@@ -30,4 +30,3 @@ seo:
       relativeUrl: true
 layout: page
 ---
-**
