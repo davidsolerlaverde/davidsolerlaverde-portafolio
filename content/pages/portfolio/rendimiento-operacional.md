@@ -12,9 +12,10 @@ seo:
 layout: project
 thumb_image: /images/PS.jpeg
 ---
-## Lorem ipsum
+*   ***S**ituación*: Viajero Hostels tenía una calificación global promedio en OTAs de 8.7 pero se necesitaba llevarla por lo menos a 9.0.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+*   ***T**areas*:
 
-- Lorem ipsum
-- dolor sit amet
+*   ***A**cciones*:
+
+*   ***R**esultados*: Incrementamos el NPS en un 32%
