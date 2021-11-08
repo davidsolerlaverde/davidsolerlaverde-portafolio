@@ -202,11 +202,7 @@ sections:
           *   *Comunicación*: Creo sistemas de comunicación que transmiten
           claridad y objetividad evitando reprocesos y haciendo más eficientes
           las operaciones.
-    subtitle: >-
-      Me enfoco en los consumidores, no en los competidores. Los consumidores
-      buscan soluciones a sus problemas más críticos. Mi estrategia tiene 4
-      pilares fundamentales que brindan soluciones efectivas, atractivas y
-      enganchadoras para los consumidores.
+    subtitle: "Me enfoco en los consumidores, no en los competidores.\_Mi estrategia tiene 4 pilares fundamentales que brindan soluciones efectivas, atractivas y enganchadoras para solucionar los problemas más críticos de los consumidores."
   - type: section_portfolio
     layout_style: mosaic
     title: Casos de éxito
