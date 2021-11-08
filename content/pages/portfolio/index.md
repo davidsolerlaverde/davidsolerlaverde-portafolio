@@ -1,8 +1,9 @@
 ---
 title: Casos de Éxito
 subtitle: >-
-  10 habilidades para lograr operaciones eficientes, rentables, rápidamente
-  escalables y enfocadas en una experiencia del cliente memorable.
+  10 habilidades implementadas exitosamente para lograr operaciones eficientes,
+  rentables, rápidamente escalables y enfocadas en una experiencia del cliente
+  memorable.
 layout_style: tiles
 seo:
   title: Portfolio
