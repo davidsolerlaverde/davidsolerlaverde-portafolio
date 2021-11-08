@@ -121,7 +121,7 @@ sections:
           Los problemas de los clientes se tienen que buscar, leer y descifrar
 
 
-          *   *Desde los datos: Capturo y analizo datos para encontrar
+          *   *Desde los datos*: Capturo y analizo datos para encontrar
           preferencias, comportamientos y problemas.*
 
 
