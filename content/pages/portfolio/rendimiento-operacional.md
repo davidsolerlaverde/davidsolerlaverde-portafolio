@@ -28,4 +28,4 @@ subtitle: >-
 
 *   ***R**esultados*: Incrementamos el NPS en un 32%
 
-> One thing is sure. We have to do something. We have to do the best we know how at the moment . . . ; If it doesn't turn out right, we can modify it as we go along - Franklin. D. Roosevelt.
+> One thing is sure. We have to do something. We have to do the best we know how at the moment . . . If it doesn't turn out right, we can modify it as we go along - Franklin. D. Roosevelt.
