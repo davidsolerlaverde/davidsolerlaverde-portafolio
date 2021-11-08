@@ -1,5 +1,5 @@
 ---
-title: Gerencia de Proyectos
+title: Transformación Digital
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: images/2_thumb.jpg
