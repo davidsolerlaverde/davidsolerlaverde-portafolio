@@ -52,16 +52,20 @@ thumb_image: /images/PM.jpeg
 
     6.  Generar el modelo operacional estimando costos operativos y de funcionamiento para los primeros 5 años de funcionamiento del aeropuerto.
 
-    7.  Construir un modelo financiero que evaluaba financiera, social y ambientalmente el aeropuerto con el fin de buscar financiamiento para su construcción y operación. 
+    7.  Construir un modelo financiero que evaluaba financiera, social y ambientalmente el aeropuerto con el fin de buscar financiamiento para su construcción y operación.
 
     8.  Hallar múltiples modelos de operación público-privada que represente mejores beneficios para la prestación del servicio aeroportuario al radio de influencia aeroportuario.
 
-    9.   
+    9.  Presentar la propuesta al cliente y hacer los ajustes necesarios de acuerdo a su feedback.
+
+    10. Exponer el proyecto a los principales stakeholders nacionales e internacionales para su conocimiento y aprobación de las siguientes etapas de desarrollo del proyecto.
 
 <!---->
 
 *   ***R**esultados*:
 
-    1.  Diseñar un aeropuerto internacional y nacional para aeronaves tipo-B que cumpliese con todos los estándares OACI
+    1.  Se diseño un aeropuerto internacional de categoría-B que conectaba con toda la zona de influencia (CARICOM, Brasil, Colombia y Venezuela) y cumplía con todos los requerimientos internacionales (OACI - Anexo 14).
 
-    2.
+    2.  Se consiguió una propuesta de financiamiento por un valor de USD45MM con el Caribbean Development Bank (CDB)
+
+    3.  El proyecto fue aprobado por el MOPW y usado como input por el contratista en la etapa de factibilidad.
