@@ -14,13 +14,13 @@ subtitle: >-
   Aumenté el % del OTP (On-Time Performance) y el % de conexiones exitosas
   mejorando el tiempo de abordaje en posiciones remotas en un 28%
 ---
-*   ***S**ituación*: Avianca estaba decreciendo su OTP (llegadas ≤ 15 minutos del itinerario) en los vuelos que eran embarcados por buses – abordajes remotos – demorando sus vuelos de retorno y otros vuelos que recibían un alto % de conexiones de los vuelos demorados, generando un efecto nocivo a toda la red.
+*   ***S**ituación*: Avianca estaba decreciendo su OTP (llegadas ≤ 15 minutos del itinerario) en los vuelos que eran embarcados por buses – abordajes remotos – demorando sus vuelos de retorno y otros vuelos que recibían un alto % de conexiones de esos vuelos demorados, generando un efecto nocivo a toda la red.
 
 <!---->
 
 *   ***T**areas*:
 
-1.  Buscar las principales
+<!---->
 
 *   ***A**cciones*:
 
