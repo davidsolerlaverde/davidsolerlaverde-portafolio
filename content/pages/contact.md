@@ -21,7 +21,7 @@ sections:
 
       ##### O en tan sólo 4 clicks podemos organizar una
       [videollamada](https://calendly.com/davidsolerlaverde/comopuedoayudarte)
-      de 15 minutos para cuando puedas
+      de 15 minutos y ajustada a tu agenda
 
 
       > No te des el lujo de perder clientes, mejor hagámoslos fans
