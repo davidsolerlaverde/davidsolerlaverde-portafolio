@@ -36,7 +36,7 @@ seo:
       relativeUrl: true
 layout: project
 ---
-*   ***S**ituación*: Decisive Point quería diseñar un modelo para medir el riesgo en zonas geográficas a partir de múltiples datos y hechos ocurridos para agilizar la toma de decisiones y optimizar la distribución de recursos estratégicos.
+*   ***S**ituación*: Decisive Point quería diseñar un modelo para evaluar el nivel de riesgo en diferentes zonas geográficas a partir de múltiples datos para agilizar la toma de decisiones y optimizar la distribución de recursos estratégicos.
 
 <!---->
 
@@ -86,4 +86,4 @@ layout: project
 
     4.  Construir un MVP para convertir el modelo en un SaaS para empresas públicas y privadas.
 
-> Things get done only if the data we gather can inform and inspire those in a position to make [a] difference. – Mike Schmoker
+> Things get done only if the data we gather can inform and inspire those in a position to make \[a] difference. – Mike Schmoker
