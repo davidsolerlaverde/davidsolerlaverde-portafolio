@@ -90,3 +90,5 @@ layout: project
     3.  Optimizar el control de los activos de la compañía como caja, inventarios, bodegas, CxC y CxP para evitar fugas y/o perdidas financieras.
 
     4.  Generar datos confiables de costos y comportamiento del consumidor para generar nuevas estrategias de mejora continua.
+
+> Don’t be fooled by some of the digital transformation buzz out there, digital transformation is a business discipline or company philosophy, not a project - Katherine Kostereva
