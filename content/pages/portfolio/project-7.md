@@ -1,5 +1,5 @@
 ---
-title: Gerencia del Talento Humano
+title: Gerencia del Talento Humano | Avianca & Viajero Hostels
 subtitle: Optional Project Subtitle
 date: '2018-01-15'
 thumb_image: /images/Coming Soon Products Pastel Brown Instagram Post (4).png
