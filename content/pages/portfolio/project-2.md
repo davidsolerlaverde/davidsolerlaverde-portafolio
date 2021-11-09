@@ -35,7 +35,7 @@ seo:
       relativeUrl: true
 layout: project
 ---
-*   ***S**ituación*: Viajero Hostels quería llegar a una calificación global promedio en OTAs de 9.0, para mediados del 2019 la tenía en 8.7.
+*   ***S**ituación*: Viajero Hostels debía generar factura electrónica a sus clientes, mejorar los estados financieros e incrementar la veracidad de los KPIs sin afectar la experiencia del cliente ni aumentar el talento humano en las sedes.
 
 <!---->
 
