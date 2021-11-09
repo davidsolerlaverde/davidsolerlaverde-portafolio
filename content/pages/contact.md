@@ -31,9 +31,7 @@ sections:
 
 
     type: section_content
-    title: >-
-      Por email, videollamada o redes sociales, porque la eficiencia es NUESTRA
-      pasión.
+    title: 'Por email, videollamada o redes sociales:'
 seo:
   title: Contact
   description: This is the contact page
