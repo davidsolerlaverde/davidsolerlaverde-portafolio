@@ -50,7 +50,7 @@ layout: project
 
     4.  Comparar los resultados del modelo con la realidad operacional para evaluar coherencia y efectividad.
 
-    5.  Exponer los resultados de manera visual y geográfica para agilizar la toma de decisiones estratégicas. 
+    5.  Exponer los resultados de manera visual y geográfica para agilizar la toma de decisiones estratégicas.
 
 <!---->
 
@@ -60,7 +60,7 @@ layout: project
 
     2.  Realizar análisis de Estadística Descriptiva a cada una de las variables para hallar coherencia y consistencia en cada una de ellas.
 
-    3.  Estandarizar los datos a través de Pruebas de Bondad Y Ajuste para generar Índices entre 0 y 1 y poder compararse entre si. 
+    3.  Estandarizar los datos a través de Pruebas de Bondad Y Ajuste para generar Índices entre 0 y 1 y poder compararse entre si.
 
     4.  Evaluar el Índice Geográfico de Seguridad (IGS) a través de  un modelo de Regresión Lineal Multiple (MLR) y realizar la verificación de todos sus supuestos.
 
@@ -68,7 +68,7 @@ layout: project
 
     6.  Comparar los resultados del IGS con evaluaciones cualitativas y cuantitativas previas para evaluar el nivel de efectividad del modelo.
 
-    7.  Realizar ajustes al modelo y agregar variables dicótomas relevantes y un efecto contagio de zonas de riesgo aledañas. 
+    7.  Realizar ajustes al modelo y agregar variables dicótomas relevantes y un efecto contagio de zonas de riesgo aledañas.
 
     8.  Mapear los resultados del IGS a través del Software Cartográfico ArcGIS.
 
@@ -80,8 +80,10 @@ layout: project
 
     1.  Evaluar el nivel de riesgo de todos los municipios de un departamento de Colombia para evaluar el esquema de seguridad necesario para iniciar operaciones mineras.
 
-    2.  Complementar los análisis cualitativos de niveles de riesgo de diferentes zonas del país aumentando la velocidad de decisiones estratégicas en 3x. 
+    2.  Complementar los análisis cualitativos de niveles de riesgo de diferentes zonas del país aumentando la velocidad de decisiones estratégicas en 3x.
 
-    3.  Distribuir objetivamente los recursos estratégicos de Seguridad & Defensa de Colombia a zonas de alto riesgo. 
+    3.  Distribuir objetivamente los recursos estratégicos de Seguridad & Defensa de Colombia a zonas de alto riesgo.
 
     4.  Construir un MVP para convertir el modelo en un SaaS para empresas públicas y privadas.
+
+> Things get done only if the data we gather can inform and inspire those in a position to make [a] difference. – Mike Schmoker
