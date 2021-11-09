@@ -19,9 +19,9 @@ sections:
       [@davidsolerlaverde](https://www.instagram.com/davidsolerlaverde/)
 
 
-      ##### O en tan sólo 4 clicks podemos organizar una
+      ##### O en 4 clicks podemos organizar una
       [videollamada](https://calendly.com/davidsolerlaverde/comopuedoayudarte)
-      de 15 minutos y ajustada a tu agenda
+      de 15 minutos que mejor se ajuste a tu agenda
 
 
       > No te des el lujo de perder clientes, mejor trabajemos juntos para
