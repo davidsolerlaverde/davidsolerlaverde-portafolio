@@ -25,7 +25,7 @@ sections:
 
 
       > No te des el lujo de perder clientes, mejor trabajemos juntos para
-      convertirlos en tus fans
+      convertirlos en fans de tu marca
     type: section_content
     title: 'Hablemos por email, redes sociales o videollamada:'
 seo:
