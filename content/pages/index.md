@@ -206,7 +206,10 @@ sections:
   - type: section_portfolio
     layout_style: mosaic
     title: Casos de éxito
-    subtitle: An optional subtitle of the section
+    subtitle: >-
+      10 habilidades implementadas –y resumidas a través de la metodología STAR–
+      que lograron operaciones eficientes, rentables, rápidamente escalables y
+      enfocadas en una experiencia del cliente inolvidable.
     projects_number: 2
     view_all_label: Ver todos
     view_all_url: portfolio
