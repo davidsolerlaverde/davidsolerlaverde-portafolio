@@ -1,6 +1,8 @@
 ---
 title: Transformación Digital | Viajero Hostels
-subtitle: Redujimos el tiempo de check-in en
+subtitle: >-
+  Redujimos el tiempo de check-in en 73% y e integramos el PMS y el ERP para
+  automatizar la facturación electrónica en Colombia
 date: '2019-04-30'
 thumb_image: /images/DT.jpeg
 thumb_image_alt: An orange on a blue background
