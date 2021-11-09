@@ -24,7 +24,8 @@ sections:
       de 15 minutos y ajustada a tu agenda
 
 
-      > No te des el lujo de perder clientes, mejor hagámoslos fans
+      > No te des el lujo de perder clientes, mejor trabajemos juntos para
+      convertirlos en tus fans
     type: section_content
     title: 'Hablemos por email, redes sociales o videollamada:'
 seo:
