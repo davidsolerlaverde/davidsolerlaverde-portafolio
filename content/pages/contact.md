@@ -19,12 +19,12 @@ sections:
       [@davidsolerlaverde](https://www.instagram.com/davidsolerlaverde/)
 
 
-      ##### O hablemos en una
+      ##### O en tan sólo 4 clicks podemos organizar una
       [videollamada](https://calendly.com/davidsolerlaverde/comopuedoayudarte)
-      de 15 minutos en tan sólo 4 clicks y ajustada a tu agenda.
+      de 15 minutos para cuando puedas
 
 
-      > No te des el lujo de perder clientes, mejor hagámoslos fans 
+      > No te des el lujo de perder clientes, mejor hagámoslos fans
     type: section_content
     title: 'Hablemos por email, redes sociales o videollamada:'
 seo:
