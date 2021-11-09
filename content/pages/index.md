@@ -214,7 +214,7 @@ sections:
     view_all_label: Ver todos
     view_all_url: portfolio
 seo:
-  title: Stackbit Exto Theme
+  title: David Soler Laverde
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
