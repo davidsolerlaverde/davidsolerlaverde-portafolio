@@ -36,21 +36,15 @@ seo:
       relativeUrl: true
 layout: project
 ---
-*   ***S**ituación*: Viajero Hostels quería llegar a una calificación global promedio en OTAs de 9.0, para mediados del 2019 la tenía en 8.7.\<!---->\<!---->\<!---->
+*   ***S**ituación*: Decisive Point quería diseñar un mecanismo objetivo para medir el riesgo en zonas geográficas a partir de múltiples datos y hechos ocurridos para agilizar la toma de decisiones y optimizar la distribución de recursos estratégicos. 
 
 <!---->
 
 *   ***T**areas*:
 
-    1.  Evaluar internamente la satisfacción del cliente para encontrar oportunidades de mejora
+    1.
 
-    2.  Hallar los principales problemas que estaban afectando la experiencia del cliente.
-
-    3.  Generar planes de acción con áreas como Mercadeo, Infraestructura, Finanzas, u otras con el fin de solventar los problemas.
-
-    4.  Implementar los planes de acción con un presupuesto que no requiriese inversión adicional.
-
-    5.  Hacer seguimiento a los nuevos resultados para medir el impacto de los planes de acción.
+    2.
 
 <!---->
 
