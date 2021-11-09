@@ -73,7 +73,7 @@ sections:
           Inteligentes)
 
 
-          *   *Clientes impactados*: 3 proyectos para Guyanese Ministry of
+          *   *Clientes impactados*: 3 proyectos para el Guyanese Ministry of
           Public Works (MOPW), CAF y DVDH
 
 
