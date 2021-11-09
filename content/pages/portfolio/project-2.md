@@ -35,7 +35,7 @@ seo:
       relativeUrl: true
 layout: project
 ---
-*   ***S**ituación*: Viajero Hostels quería llegar a una calificación global promedio en OTAs de 9.0, para mediados del 2019 la tenía en 8.7.\<!---->\<!---->\<!---->
+*   ***S**ituación*: Viajero Hostels quería llegar a una calificación global promedio en OTAs de 9.0, para mediados del 2019 la tenía en 8.7.
 
 <!---->
 
