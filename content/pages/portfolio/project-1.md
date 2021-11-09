@@ -1,6 +1,6 @@
 ---
 title: Análisis de Datos | Decisive Point
-subtitle: Optional Project Subtitle
+subtitle: sfas
 date: '2019-05-10'
 thumb_image: /images/DA.jpeg
 thumb_image_alt: 'White, black, and red shoe sole'
