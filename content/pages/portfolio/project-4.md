@@ -1,5 +1,5 @@
 ---
-title: Creación y ventas de productos
+title: Creación y ventas de productos | Viajero Hostels
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image: /images/Coming Soon Products Pastel Brown Instagram Post (4)-c0759f17.png
