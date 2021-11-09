@@ -1,6 +1,6 @@
 ---
 title: Home
-hide_title: true
+hide_title: false
 sections:
   - section_id: El 80% de los clientes se pierden por un mal servicio.
     type: section_content
