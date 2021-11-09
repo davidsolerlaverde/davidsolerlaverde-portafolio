@@ -41,46 +41,52 @@ layout: project
 
 *   ***T**areas*:
 
-    1.  Evaluar internamente la satisfacción del cliente para encontrar oportunidades de mejora
+    1.  Evaluar los diferentes ERPs que había en el mercado y que brindará una integración con Cloudbeds, el PMS –*Property Management System–* que veía usando Viajero Hostels en sus últimos años.
 
-    2.  Hallar los principales problemas que estaban afectando la experiencia del cliente.
+    2.  Negociar y contratar el ERP que cumpliera con las necesidades externas e internas de Viajero Hostels.
 
-    3.  Generar planes de acción con áreas como Mercadeo, Infraestructura, Finanzas, u otras con el fin de solventar los problemas.
+    3.  Configurar el ERP para que trabaje de manera automática con el PMS para no aumentar los tiempos de servicio en el check-in.
 
-    4.  Implementar los planes de acción con un presupuesto que no requiriese inversión adicional.
+    4.  Implementar el ERP en la nueva vertical de negocio –Alimentos y Bebidas– para que se pudiese atender clientes externos y realizar cargos a cuenta.
 
-    5.  Hacer seguimiento a los nuevos resultados para medir el impacto de los planes de acción.
+    5.  Capacitar a todos los equipos operativos y financieros en el uso del ERP y el PMS.
+
+    6.  Conectar el Dashboard de Viajero Hostels con los datos arrojados del PMS/ERP para darle consistencia a las decisiones estratégicas de la Junta Directiva.
 
 <!---->
 
 *   ***A**cciones*
 
-    1.  Crear una encuesta para que fuese realizada en 2 minutos en diferentes puntos de experiencia para recopilar datos en todos los hostels, restaurantes y bares. La tabulación se hacía desde Bogotá para evaluar preferencias y necesidades transversales.
+    1.  Averiguar, cotizar y evaluar múltiples empresas que cumplían con las necesidades de Viajero Hostels y estaban en los limites presupuestales.
 
-    2.  Segmentar la información –con estadística descriptiva– entre problemas y deseos. Posteriormente caracterizarlos en orden de prioridad, costos, dedicación por parte de cada equipo e impacto en la experiencia total.
+    2.  Seleccionar a Siesa como ERP dado que la 2da opción –Zeus– no se acoplaba al modelo de negocio y la 3ra opción –Cloudbeds– no cumplía con los permisos legales necesarios para facturar.
 
-    3.  Socializar los resultados con los Gerentes Generales para empezar a trazar planes de acción ajustándolos por presupuesto e inmediatez en el impacto.
+    3.  Hacer una configuración inicial para cambiar la facturación tipo POS a electrónica, sin estar automatizada, para cumplir requerimientos tributarios urgentes.
 
-    4.  Implementar aquellas tareas que estaban bajo control del COO y con impacto inmediato, mediante la metodología Lean Startup, para testear rápidamente la respuesta de los consumidores, aprender, mejorarlas y trasladar dichas soluciones a otras sedes.
+    4.  Realizar una evaluación de la infraestructura TI en las sedes y se realizaron las adecuaciones necesarias para hacer la implementación del ERP y las maquinas POS donde fuese necesario. 
 
-    5.  Ajustar las tareas restantes con las demás áreas de la compañía para asignar personal, equipos y tareas sin que genere inconvenientes en el pipeline de proyectos que cada una de ellas viene ejecutando.
+    5.  Capacitar a los equipos para cambiar el proceso de facturación, documentando nuevas practicas y haciendo seguimiento al impacto en la experiencia al cliente y en las cargas laborales. 
 
-    6.  Incluir la calificación en OTAs a los formatos de evaluación y bonificación para crear cohesión y enfoque total hacía los resultados.
+    6.  Con las prácticas aprendidas, iniciar el desarrollo de la integración automática entre Cloudbeds (vía APIs) y Siesa para automatizar acciones dependiendo de las reglas de negocio establecidas por Viajero Hostels.
 
-    7.  Medir el impacto de las decisiones tomadas mediante una supervisión periódica del NPS, asimismo ingresando los nuevos insights y clasificándolo entre los diferentes planes de acción.
+    7.  Implementar el sistema de inventarios, recetas, costeo y otras configuraciones necesarias tanto para Alimentos y Bebidas como para Hostelería.
 
-    8.  Documentar las soluciones implementadas y caracterizar su inversión e impacto con el fin de extrapolarlas a otras operaciones y/o ingresándolas en los SOPs de la compañía.
+    8.  Realizar pruebas de la integración automática durante un mes de operación para evaluar las reglas de negocio, fallas generadas y escenarios de solución.
+
+    9.  Pivotar de una integración automática a una semi-automática logrando que el 70% de la carga quedará automatizada y crear 2 filtros de auditoria para garantizar coherencia en los resultados.
+
+    10. Implementar una segunda fase de pruebas para corregir problemas, documentar el proceso y generar una guía rápida de capacitación con las nuevas funcionalidades del ERP.
+
+    11. Implementar el ERP, POS y las modificaciones en Cloudbeds en 8 hostales, 8 bares y 5 restaurantes en Colombia. 
 
 <!---->
 
 *   ***R**esultados*:
 
-    1.  Incrementamos el NPS en un 32% logrando un incremento global promedio de 0.3.
+    1.  Integrar 2 sistemas operativos diferentes a través de una integración e interfaz para tener un proceso de facturación efectivo y sencillo.
 
-    2.  Sostuvimos el % de EBITDA presupuestado.
+    2.  Disminuir un 73% el tiempo de check-in con la integración e interfaz mejorando la experiencia del cliente, cumpliendo los procesos tributarios y logrando mejor consistencias en las cifras.
 
-    3.  Alineamos evaluaciones de desempeño mensuales y semestrales con las necesidades estratégicas de la compañía
+    3.  Optimizar el control de los activos de la compañía: caja, inventarios, bodegas, CxC y CxP.
 
-    4.  Establecimos un marco para la toma autónoma de decisiones por parte de los Gerentes Generales.
-
-    5.  Impactamos positivamente la recompra mediante un aumento del % de reviews positivos en OTAs e interacción de los huéspedes por Redes Sociales.
+    4.  Generar datos verídicos de costos y comportamiento del consumidor para generar estrategias de mejora continua. 
