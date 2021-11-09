@@ -27,7 +27,7 @@ sections:
       > No te des el lujo de perder clientes, mejor trabajemos juntos para
       convertirlos en fans de tu marca
     type: section_content
-    title: 'Hablemos por email, redes sociales o videollamada:'
+    title: Hablemos por el medio que prefieras en un sólo click!
 seo:
   title: Contact
   description: This is the contact page
