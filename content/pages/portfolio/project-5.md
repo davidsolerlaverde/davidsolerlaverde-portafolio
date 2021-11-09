@@ -1,5 +1,5 @@
 ---
-title: Manejo de crisis empresariales
+title: Manejo de crisis empresariales | Avianca & Viajero Hostels
 subtitle: Optional Project Subtitle
 date: '2019-01-05'
 thumb_image: /images/Coming Soon Products Pastel Brown Instagram Post (4).png
