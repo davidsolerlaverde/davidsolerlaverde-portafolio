@@ -204,7 +204,7 @@ sections:
           las operaciones.
     subtitle: "Me enfoco en los consumidores, no en los competidores.\_Mi estrategia tiene 4 pilares fundamentales que brindan soluciones efectivas, atractivas y enganchadoras para solucionar los problemas más críticos de los consumidores."
   - type: section_portfolio
-    layout_style: mosaic
+    layout_style: tiles
     title: Casos de éxito
     subtitle: An optional subtitle of the section
     projects_number: 2
