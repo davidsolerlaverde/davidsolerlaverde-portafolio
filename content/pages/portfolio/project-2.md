@@ -1,6 +1,6 @@
 ---
 title: Transformación Digital | Viajero Hostels
-subtitle: Optional Project Subtitle
+subtitle: Redujimos el tiempo de check-in en
 date: '2019-04-30'
 thumb_image: /images/DT.jpeg
 thumb_image_alt: An orange on a blue background
