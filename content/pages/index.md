@@ -122,8 +122,8 @@ sections:
 
 
           *   *Desde los datos*: Capturo y analizo datos con Excel para
-          encontrar preferencias, comportamientos y problemas. Para mejorar esta
-          habilidad, estoy aprendiendo Python, SQL y PowerBI.
+          encontrar preferencias, comportamientos y problemas. Estoy llevando
+          esta habilidad al siguiente nivel a través de Python, SQL y PowerBI.
 
 
           *   *Desde sus perspectivas*: Construyo encuestas y entrevistas y las
