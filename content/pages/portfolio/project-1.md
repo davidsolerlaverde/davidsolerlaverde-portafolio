@@ -2,8 +2,8 @@
 title: Análisis de Datos | Decisive Point
 subtitle: >-
   Diseñé un Índice de Medición de Riesgo que caracterizaba el riesgo en una zona
-  geográfica a partir de múltiples variables para la toma de decisiones
-  estratégicas de Seguridad & Defensa
+  geográfica a partir de múltiples variables optimizando la toma de decisiones
+  estratégicas en Seguridad & Defensa
 date: '2019-05-10'
 thumb_image: /images/DA.jpeg
 thumb_image_alt: 'White, black, and red shoe sole'
