@@ -1,5 +1,5 @@
 ---
-title: Aperturas de Negocios
+title: Aperturas de Negocios | Viajero Hostels
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
 thumb_image: /images/Coming Soon Products Pastel Brown Instagram Post (4)-c0759f17.png
