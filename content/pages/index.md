@@ -208,7 +208,7 @@ sections:
     title: Casos de éxito
     subtitle: An optional subtitle of the section
     projects_number: 2
-    view_all_label: View All
+    view_all_label: Ver todos
     view_all_url: portfolio
 seo:
   title: Stackbit Exto Theme
