@@ -1,5 +1,5 @@
 ---
-title: Seguimiento al Rendimiento Operacional
+title: Seguimiento al Rendimiento Operacional | Viajero Hostels
 subtitle: Optional Project Subtitle
 date: '2018-12-18'
 thumb_image: /images/Coming Soon Products Pastel Brown Instagram Post (4).png
