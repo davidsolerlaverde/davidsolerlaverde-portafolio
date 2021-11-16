@@ -33,21 +33,21 @@ seo:
       relativeUrl: true
 layout: project
 ---
-*   ***S**ituación*: Viajero Hostels estaba creciendo sus operaciones en Colombia y Cono Sur. Adicionalmente, estaba en una estrategia de incrementar la diversificación de ingresos por lo que decidieron abrir la vertical de restaurantes en el área de Alimentos y Bebidas. 
+*   ***S**ituación*: Viajero Hostels estaba creciendo sus operaciones en Colombia y Cono Sur. Adicionalmente, necesitaba diversificar los ingresos ampliando el área de Alimentos y Bebidas con nuevos restaurantes.
 
 <!---->
 
 *   ***T**areas*:
 
-    1.  Generar una metodología para la apertura de operaciones donde se tuviera establecido y mapeado los esfuerzos de las áreas de growth, operaciones, recursos humanos, mercadeo, finanzas, tech y legal.
+    1.  Generar una metodología para la apertura de operaciones donde estuvieran el plan de trabajo de growth, operaciones, recursos humanos, mercadeo, finanzas, tech y legal.
 
-    2.  Lograr break-even point en el primer semestre después de la apertura de Hostales y Restaurantes.
+    2.  Lograr break-even point en el primer semestre de operaciones de Hostales y Restaurantes.
 
-    3.  Incrementar el % de ingresos por Alimentos y bebidas a través de restaurantes y bares que atraigan a los huéspedes y al público local.
+    3.  Incrementar el % de ingresos de Alimentos y Bebidas con nuevos restaurantes y bares enfocados tanto en huéspedes como en público local.
 
-    4.  Tener una calificación en OTAs > 9.0 (sobre 10) en el primer semestre de operación.
+    4.  Tener una calificación en OTAs > 9/10 en el primer semestre de operación.
 
-    5.  Aumentar el % de re-compra de los clientes a través de la venta de noches anticipadas en aquellos destinos donde la marca tiene presencia. 
+    5.  Aumentar el % de re-compra de los clientes vendiendo noches anticipadas en aquellos destinos donde la marca tiene presencia y el cliente iba a visitar.
 
 <!---->
 
@@ -55,23 +55,23 @@ layout: project
 
     1.  Acompañar al equipo de Growth en el diseño estructural, modelo financiero, establecimiento del CAPEX y OPEX, construcción y entrega de la propiedad.
 
-    2.  Revisar las restricciones legales, tecnológicas y financieras para establecer soluciones internas y/o externas que no impidieran la apertura de las operaciones.
+    2.  Revisar las restricciones legales, tecnológicas y financieras para establecer soluciones internas y/o externas que no interrumpieran la apertura de las operaciones.
 
-    3.  Generar Diagramas de Gantt, proyectos, tareas, subtareas y responsables para establecer la ruta crítica y poner la mayoría de esfuerzos en optimizar dichos procesos. 
+    3.  Generar Diagramas de Gantt, proyectos, tareas, subtareas y responsables para establecer y optimizar la ruta crítica.
 
-    4.  Supervisar las necesidades de capital, inversiones en OPEX y CAPEX, gastos de apertura y operacionales para no generar sobrecostos en el proyecto.
+    4.  Supervisar las necesidades de capital, inversiones en OPEX y CAPEX, gastos de apertura y operacionales evitando sobrecostos en el proyecto.
 
-    5.  Realizar la estrategia de pricing que permita maximizar el revenue a través del establecimiento de canales de ventas, tarifas diferenciadas, paquetes y descuentos.
+    5.  Realizar la estrategia de pricing que maximice el revenue a través del establecimiento de canales de ventas, tarifas diferenciadas, paquetes y descuentos.
 
     6.  Establecer la ruta para la contratación de 30+ personas por cada apertura estableciendo perfiles, salarios, procesos de reclutamiento y selección, capacitación masiva y acompañamiento en el primer mes de operación.
 
     7.  Concretar alianzas con proveedores nacionales para lograr economías de escala, mejorar los flujos de aprovisionamiento y mejorar la oferta de valor al cliente.
 
-    8.  Co-diseñar y ejecutar el plan de lanzamiento liderado por Marketing para lograr captar los primeros los primeros clientes, mejorar el posicionamiento de marca en medios digitales, aumentar la recordación de marca por parte de los clientes y posicionar los negocios de AyB.
+    8.  Co-diseñar y ejecutar el plan de lanzamiento liderado por Marketing para lograr captar los primeros los primeros clientes, mejorar el posicionamiento de marca en medios digitales, aumentar la recordación de marca por parte de los clientes y posicionar los restaurantes en el contexto local.
 
-    9.  Construir la oferta gastronómica a través del estudio de preferencia de los clientes, establecimiento de carta y bebidas y look'n feel del espacio, disponibilidad de insumos, talento humano disponible y oferta de la competencia.
+    9.  Construir la oferta gastronómica a través del estudio de preferencias de los clientes, establecimiento de carta y bebidas y look'n feel del espacio, disposición de insumos, talento humano disponible y oferta de la competencia.
 
-    10. Implementar y modificar KPIs, SOPs, evaluaciones y reportes gerenciales para lograr una operación autónoma y eficiente. 
+    10. Implementar y modificar KPIs, SOPs, evaluaciones y reportes gerenciales para lograr una operación autónoma y eficiente en el primer mes de operación.
 
 <!---->
 
@@ -81,10 +81,10 @@ layout: project
 
     2.  Logramos que los hostales tengan una calificación promedio de 9.4 en sus primeros meses de operación.
 
-    3.  Incrementamos en un 350% la fuente de ingresos de Alimentos y Bebidas de Viajero Hostels a través de la constitución y optimización de esta vertical de negocio.
+    3.  Incrementamos en un 350% la fuente de ingresos de Alimentos y Bebidas de Viajero Hostels a través de la constitución y operación de esta vertical de negocio.
 
     4.  Logré break-even point en el primer trimestre de operación en Santa Marta y Buenos Aires y en el primer semestre de operación para Medellín, a pesar de que su apertura se hizo durante la pandemia del COVID-19.
 
-    5.  Construimos una metodología que permitió realizar la apertura de operaciones en 3 meses con base en la metodología PMI. 
+    5.  Construimos una metodología que permitió realizar la apertura de operaciones en 3 meses con base en la metodología PMI.
 
 > **You don't build a business, you build people, then people build the business. – Zig Ziglar**
