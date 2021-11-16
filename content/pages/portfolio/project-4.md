@@ -31,13 +31,58 @@ seo:
       relativeUrl: true
 layout: project
 ---
+***S**ituación*: Viajero Hostels debía generar factura electrónica a sus clientes, mejorar los estados financieros e incrementar la veracidad de los KPIs sin afectar la experiencia del cliente ni decrecer el EBITDA de las sedes.\<!---->\<!---->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Justo eget magna fermentum iaculis eu non diam. Id volutpat lacus laoreet non. Faucibus pulvinar elementum integer enim. Malesuada fames ac turpis egestas integer eget aliquet nibh. Turpis massa sed elementum tempus. Potenti nullam ac tortor vitae purus faucibus. Duis ut diam quam nulla porttitor massa. Ultrices dui sapien eget mi proin sed libero enim. Nibh venenatis cras sed felis eget velit aliquet. Nec ullamcorper sit amet risus nullam. Duis at tellus at urna. Pulvinar elementum integer enim neque. Amet cursus sit amet dictum sit amet justo. Aliquam nulla facilisi cras fermentum odio eu. Cursus in hac habitasse platea dictumst quisque sagittis. Euismod nisi porta lorem mollis aliquam ut porttitor leo.
+*   ***T**areas*:
 
-Eget nunc scelerisque viverra mauris in aliquam sem fringilla. Ornare arcu dui vivamus arcu felis bibendum. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit. Ut sem nulla pharetra diam sit amet nisl suscipit. Fermentum leo vel orci porta. Facilisis volutpat est velit egestas. Et pharetra pharetra massa massa ultricies mi quis. Id aliquet risus feugiat in ante metus dictum at tempor. Magna fermentum iaculis eu non diam phasellus. Tellus cras adipiscing enim eu turpis egestas.
+    1.  Evaluar los diferentes ERPs que había en el mercado para que brindará una integración con Cloudbeds, el PMS –*Property Management System–* que ha usado Viajero Hostels en sus últimos años.
 
->"Designers are meant to be loved, not to be understood." - Margaret Oscar
+    2.  Negociar y contratar el ERP que cumpliera con las necesidades externas e internas de Viajero Hostels.
 
-Orci ac auctor augue mauris augue neque. Id semper risus in hendrerit gravida rutrum quisque. Et leo duis ut diam quam nulla porttitor massa. Condimentum vitae sapien pellentesque habitant morbi. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Hendrerit dolor magna eget est lorem ipsum dolor sit. Ipsum dolor sit amet consectetur. Eu augue ut lectus arcu bibendum at. Etiam non quam lacus suspendisse. Leo integer malesuada nunc vel. Consequat id porta nibh venenatis. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Aliquam sem fringilla ut morbi tincidunt augue interdum velit euismod. Facilisis leo vel fringilla est ullamcorper eget nulla facilisi etiam.
+    3.  Configurar el ERP para que trabaje de manera automática con el PMS y así no aumentar los tiempos de servicio en el check-in.
 
-Tortor consequat id porta nibh. Lorem ipsum dolor sit amet consectetur adipiscing elit ut aliquam. Ante metus dictum at tempor. Consectetur adipiscing elit ut aliquam purus. Mauris in aliquam sem fringilla. Sed adipiscing diam donec adipiscing tristique. Posuere ac ut consequat semper viverra nam libero justo. Vulputate ut pharetra sit amet aliquam id diam maecenas ultricies. Molestie nunc non blandit massa enim nec. Pretium aenean pharetra magna ac placerat vestibulum lectus mauris ultrices. Ac turpis egestas integer eget aliquet. Consectetur purus ut faucibus pulvinar elementum integer enim. Quis ipsum suspendisse ultrices gravida dictum fusce. Elit ullamcorper dignissim cras tincidunt lobortis. Non enim praesent elementum facilisis leo vel. Mi ipsum faucibus vitae aliquet nec ullamcorper. Nisl suscipit adipiscing bibendum est ultricies integer quis auctor elit. Senectus et netus et malesuada fames. Massa sed elementum tempus egestas sed sed.
+    4.  Implementar el ERP en la nueva vertical de negocio –Alimentos y Bebidas– para que se pudiese atender clientes externos y realizar cargos a cuenta.
+
+    5.  Capacitar a todos los equipos operativos y financieros en el uso del ERP y el PMS.
+
+    6.  Conectar el Dashboard de Viajero Hostels con los datos arrojados por el PMS/ERP para darle mayor consistencia a las decisiones estratégicas de la Junta Directiva.
+
+<!---->
+
+*   ***A**cciones*
+
+    1.  Averiguar, cotizar y evaluar múltiples empresas que cumplían con las necesidades de Viajero Hostels y estaban en los limites presupuestales del proyecto.
+
+    2.  Seleccionar a Siesa como ERP dado que la 2da opción –Zeus– no se acoplaba al modelo de negocio y la 3ra opción –Cloudbeds– no cumplía con los permisos legales necesarios para facturar.
+
+    3.  Hacer una configuración inicial para cambiar la facturación tipo POS a electrónica, sin estar automatizada, para cumplir requerimientos tributarios prioritarios.
+
+    4.  Evaluar la infraestructura de TI en cada sede y realizar las adecuaciones necesarias para hacer la implementación del ERP y las maquinas POS.
+
+    5.  Capacitar a los equipos para cambiar el proceso de facturación, documentar nuevas practicas y hacer seguimiento al impacto en la experiencia al cliente y en las cargas laborales.
+
+    6.  Con las prácticas aprendidas, iniciar el desarrollo de la integración automática entre Cloudbeds (vía APIs) y Siesa para automatizar procedimientos dependiendo de las reglas de negocio establecidas por Viajero Hostels.
+
+    7.  Implementar el sistema de inventarios, recetas, costeo y otras configuraciones necesarias tanto para la vertical de Alimentos y Bebidas como la de Hostelería.
+
+    8.  Realizar pruebas de la integración automática durante un mes de operación para evaluar las reglas de negocio, observar fallas generadas y crear escenarios de solución.
+
+    9.  Pivotar de una integración automática a una semi-automática logrando que el 70% de la carga quedará automatizada y crear 2 filtros de auditoria para garantizar coherencia en los resultados.
+
+    10. Implementar una segunda fase de pruebas para corregir problemas, documentar el proceso y generar una guía rápida de capacitación con las nuevas funcionalidades del ERP.
+
+    11. Implementar el ERP, POS y las modificaciones en Cloudbeds en 8 hostales, 8 bares y 5 restaurantes en Colombia.
+
+<!---->
+
+*   ***R**esultados*:
+
+    1.  Integrar 2 sistemas operativos diferentes a través de una integración (automática) e interfaz (semiautomática) para tener un proceso de facturación efectivo y sencillo.
+
+    2.  Disminuir un 73% el tiempo de check-in con la integración e interfaz mejorando la experiencia del cliente, cumpliendo los procesos tributarios y logrando mejor consistencias en las cifras.
+
+    3.  Optimizar el control de los activos de la compañía como caja, inventarios, bodegas, CxC y CxP para evitar fugas y/o perdidas financieras.
+
+    4.  Generar datos confiables de costos y comportamiento del consumidor para generar nuevas estrategias de mejora continua.
+
+> afasfasdfasdfasdfasd
