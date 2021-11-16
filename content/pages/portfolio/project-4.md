@@ -2,7 +2,7 @@
 title: Creación y ventas de productos | Viajero Hostels
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
-thumb_image: /images/Coming Soon Products Pastel Brown Instagram Post (4)-c0759f17.png
+thumb_image: /images/PD.jpeg
 thumb_image_alt: A table tennis racket on a pink background
 image: images/4.jpg
 image_alt: A table tennis racket on a pink background
