@@ -1,6 +1,8 @@
 ---
 title: Aperturas de Negocios | Viajero Hostels
-subtitle: Optional Project Subtitle
+subtitle: >-
+  Abrí 4 hostales y restaurantes en Santa Marta, Medellín, Bogotá y Buenos Aires
+  junto con 2 food trucks en Cartagena y Calí.
 date: '2019-04-08'
 thumb_image: /images/OB.webp
 seo:
